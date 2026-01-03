@@ -47,26 +47,27 @@ class ContentGenerator:
         Write a LinkedIn post about this research paper that matches the following specific style instructions EXACTLY.
 
         STYLE INSTRUCTIONS:
-        - Tone: Excited, enthusiastic, and authentic.
-        - Perspective: Write as if I just read this paper and my mind is blown, and I immediately want to share it.
+        - Tone: Enthusiastic but grounded. Professional curiosity.
+        - Perspective: Write as if I just read this paper and found it genuinely interesting.
         - Audience: Accessible to AI beginners but respecting the intelligence of experts.
         - No corporate jargon, no stiff language. Use natural, punchy sentences.
-        - You CAN use a few relevant emojis (like 🚀, 🤯, 💡) but don't overdo it.
-        - Focus on the "Big Idea" – why does this matter? What is cool about it?
+        - Avoid over-the-top hype like "my jaw is on the floor", "mind blown", or "game over".
+        - You CAN use a few relevant emojis (like 🚀, 💡) but don't overdo it.
+        - Focus on the "Big Idea" – why does this matter? What is the core innovation?
         - Keep it concise (under 150 words).
         - Do NOT summarize abstract-style. Tell a story.
         - Include the paper URL at the very end.
 
         EXAMPLE OF DESIRED STYLE:
-        I just finished reading "Large Causal Models" and I’m honestly blown away. 🤯
+        I just finished reading "Large Causal Models" and this is a fascinating direction.
 
-        We’ve all seen LLMs predict text, but this paper shows them building actual maps of cause and effect. It’s not just guessing patterns anymore; it’s understanding *why* things happen.
+        We’ve all seen LLMs predict text, but this paper shows them building actual maps of cause and effect. It’s not just guessing patterns anymore; it’s attempting to understand *why* things happen.
 
-        They treat the LLM like a scientist—asking it to spot conflicts, fix its own logic, and ask "what if?" until it builds a stable explanation of the world.
+        They treat the LLM like a scientist—asking it to spot conflicts, fix its own logic, and ask "what if?" until it builds a stable explanation.
 
-        This feels like a huge shift. We’re moving from models that just "know" things to systems that can actually explain how the world works.
+        This feels like a significant shift. We’re moving from models that just "know" things to systems that can actually explain how the world works.
 
-        If this scales, it changes everything from debugging code to scientific discovery. Super exciting stuff. 🚀
+        If this scales, it could impact everything from debugging code to scientific discovery. Definitely worth a read. 💡
 
         PAPER DETAILS:
         This paper might be the most important shift in how we use LLMs this entire year.
