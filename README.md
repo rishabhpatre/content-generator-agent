@@ -44,7 +44,7 @@ To have this run daily and email you the post:
         > 2. Search for "App passwords" -> Create one named "LinkedIn Agent".
         > 3. Copy the 16-character code.
     *   `RECIPIENT_EMAIL`: The email address to receive the post *at*.
-4.  **Done!** The workflow will run automatically every day at 08:00 UTC.
+4.  **Done!** The workflow will run automatically every day at 07:00 AM IST (01:30 UTC).
 
 ## 📁 Project Structure
 - `src/arxiv_client.py`: Fetches papers from Arxiv.
