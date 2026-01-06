@@ -2,3 +2,4 @@ arxiv
 google-generativeai
 python-dotenv
 rich
+feedparser

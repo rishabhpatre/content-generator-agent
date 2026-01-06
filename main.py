@@ -7,6 +7,7 @@ from rich.markdown import Markdown
 from src.arxiv_client import search_papers
 from src.llm_processor import ContentGenerator
 from src.email_client import send_email
+from src.rss_client import fetch_rss_items
 
 console = Console()
 
@@ -15,7 +16,7 @@ def main():
     parser.add_argument("--email", action="store_true", help="Send the result via email instead of just printing")
     args = parser.parse_args()
 
-    console.print(Panel.fit("[bold blue]Arxiv to LinkedIn Agent[/bold blue]", subtitle="AI Research Content Generator"))
+    console.print(Panel.fit("[bold blue]Arxiv to LinkedIn Agent[/bold blue]", subtitle="AI Research & News Content Generator"))
 
     # Check API Key
     if not os.getenv("GOOGLE_API_KEY"):
@@ -23,31 +24,70 @@ def main():
         return
 
     try:
-        # 1. Fetch Papers
+        generator = ContentGenerator()
+        
+        # --- PART 1: ARXIV ---
         with console.status("[bold green]Fetching recent AI papers from Arxiv...[/bold green]"):
             papers = search_papers(max_results=7)
             console.print(f"[bold green]Found {len(papers)} papers.[/bold green]")
 
-        # 2. Analyze
-        generator = ContentGenerator()
-        with console.status("[bold yellow]Analyzing papers for virality...[/bold yellow]"):
+        with console.status("[bold yellow]Analyzing papers...[/bold yellow]"):
             best_paper = generator.analyze_and_pick_best(papers)
         
         console.print(Panel(f"[bold]{best_paper.title}[/bold]\n\n{best_paper.summary[:200]}...", title="Best Paper Selected", border_style="green"))
 
-        # 3. Generate Post
-        with console.status("[bold magenta]Generating LinkedIn post...[/bold magenta]"):
-            post_content = generator.generate_linkedin_post(best_paper)
+        with console.status("[bold magenta]Generating LinkedIn post for Paper...[/bold magenta]"):
+            paper_post = generator.generate_linkedin_post(best_paper)
 
-        # 4. Output
-        console.print("\n[bold]Generated LinkedIn Post:[/bold]\n")
-        console.print(Panel(Markdown(post_content), border_style="blue"))
+        console.print("\n[bold]Generated LinkedIn Post (Arxiv):[/bold]\n")
+        console.print(Panel(Markdown(paper_post), border_style="blue"))
 
-        # 5. Email (Optional)
+
+        # --- PART 2: RSS FEEDS ---
+        with console.status("[bold green]Fetching AI News from RSS Feeds...[/bold green]"):
+            news_items = fetch_rss_items(max_items_per_feed=2)
+            console.print(f"[bold green]Found {len(news_items)} news items.[/bold green]")
+
+        best_news = None
+        news_post = ""
+        
+        if news_items:
+            with console.status("[bold yellow]Analyzing news items...[/bold yellow]"):
+                best_news = generator.analyze_and_pick_best(news_items)
+            
+            console.print(Panel(f"[bold]{best_news.title}[/bold]\n\n{best_news.summary[:200]}...", title="Best News Item Selected", border_style="cyan"))
+
+            with console.status("[bold magenta]Generating LinkedIn post for News...[/bold magenta]"):
+                news_post = generator.generate_linkedin_post(best_news)
+
+            console.print("\n[bold]Generated LinkedIn Post (RSS News):[/bold]\n")
+            console.print(Panel(Markdown(news_post), border_style="cyan"))
+        else:
+            console.print("[bold red]No RSS items found![/bold red]")
+
+
+        # --- PART 3: EMAIL ---
         if args.email:
             with console.status("[bold cyan]Sending email...[/bold cyan]"):
-                email_body = f"Here is your daily LinkedIn post based on the paper: {best_paper.title}\n\n---\n\n{post_content}"
-                send_email(subject=f"Daily LinkedIn Post: {best_paper.title}", body=email_body)
+                email_subject = f"Daily AI Digest: {best_paper.title[:30]}... & More"
+                
+                email_body = f"""Here are your daily LinkedIn posts:
+
+========================================
+RESEARCH PAPER
+========================================
+Based on: {best_paper.title}
+
+{paper_post}
+
+========================================
+AI NEWS
+========================================
+Based on: {best_news.title if best_news else 'N/A'}
+
+{news_post}
+"""
+                send_email(subject=email_subject, body=email_body)
 
     except Exception as e:
         console.print(f"[bold red]An error occurred:[/bold red] {e}")
