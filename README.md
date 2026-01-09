@@ -5,8 +5,9 @@ An autonomous AI agent that fetches the latest research papers from Arxiv, analy
 ## ✨ Features
 - **Fetch Recent Papers**: Queries Arxiv for the latest "LLM" and "Artificial Intelligence" papers.
 - **Gather AI News**: Aggregates news from top AI blogs (OpenAI, Google, Anthropic, etc.) via RSS.
-- **Smart Analysis**: Uses **Google Gemini 2.5 Flash** (Free Tier) to pick the most engaging research *and* news topic.
-- **Dual Post Generation**: Writes **two** professional LinkedIn posts (one research, one news) in every update.
+- **Daily AI Concept**: Generates an educational "Concept of the Day" (e.g., LoRA, RAG) with a **visual flowchart** (Mermaid.js).
+- **Smart Analysis**: Uses **Google Gemini 2.5 Flash** (Free Tier) to pick the most engaging topics.
+- **Multi-Format Content**: Creates research summaries, news updates, and educational deep-dives.
 - **Daily Automation**: Runs automatically via GitHub Actions every day at 07:00 AM IST.
 
 ## 🛠️ Usage
