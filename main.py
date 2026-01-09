@@ -8,6 +8,7 @@ from src.arxiv_client import search_papers
 from src.llm_processor import ContentGenerator
 from src.email_client import send_email
 from src.rss_client import fetch_rss_items
+from src.image_generator import generate_infographic
 
 console = Console()
 
@@ -66,7 +67,24 @@ def main():
             console.print("[bold red]No RSS items found![/bold red]")
 
 
-        # --- PART 3: EMAIL ---
+        # --- PART 3: AI CONCEPT INFOGRAPHIC ---
+        with console.status("[bold cyan]Generating AI Concept Concept...[/bold cyan]"):
+            concept_data = generator.generate_ai_concept()
+        
+        console.print(Panel(f"[bold]{concept_data['title']}[/bold]\n\n{concept_data['explanation']}\n\n[dim]Mermaid Code:[/dim]\n{concept_data['mermaid_code']}", title="AI Concept Generated", border_style="magenta"))
+
+        infographic_path = "daily_concept.png"
+        with console.status("[bold magenta]Fetching Mermaid Diagram...[/bold magenta]"):
+            from src.image_generator import generate_mermaid_diagram
+            # We use the new mermaid generator
+            path = generate_mermaid_diagram(concept_data['mermaid_code'], infographic_path)
+            if path:
+                console.print(f"[bold green]Diagram saved to {infographic_path}[/bold green]")
+            else:
+                console.print("[bold red]Failed to generate diagram![/bold red]")
+
+
+        # --- PART 4: EMAIL ---
         if args.email:
             with console.status("[bold cyan]Sending email...[/bold cyan]"):
                 email_subject = f"Daily AI Digest: {best_paper.title[:30]}... & More"
@@ -86,8 +104,17 @@ AI NEWS
 Based on: {best_news.title if best_news else 'N/A'}
 
 {news_post}
+
+========================================
+DAILY AI CONCEPT
+========================================
+{concept_data['title']}
+
+{concept_data['explanation']}
+
+(See attached concept diagram)
 """
-                send_email(subject=email_subject, body=email_body)
+                send_email(subject=email_subject, body=email_body, image_path=infographic_path)
 
     except Exception as e:
         console.print(f"[bold red]An error occurred:[/bold red] {e}")

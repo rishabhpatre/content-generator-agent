@@ -4,3 +4,4 @@ __pycache__/
 output.txt
 output_*.txt
 .DS_Store
+*.png

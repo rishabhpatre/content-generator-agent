@@ -1,10 +1,11 @@
+from email.mime.image import MIMEImage
+from typing import Optional
+import os
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-import os
-from typing import Optional
 
-def send_email(subject: str, body: str, to_email: Optional[str] = None):
+def send_email(subject: str, body: str, to_email: Optional[str] = None, image_path: Optional[str] = None):
     """
     Sends an email using SMTP.
     Requires SMTP_EMAIL, SMTP_PASSWORD, and optionally RECIPIENT_EMAIL in env vars.
@@ -25,6 +26,16 @@ def send_email(subject: str, body: str, to_email: Optional[str] = None):
     msg['Subject'] = subject
 
     msg.attach(MIMEText(body, 'plain'))
+    
+    # Attach Image if provided
+    if image_path and os.path.exists(image_path):
+        try:
+            with open(image_path, 'rb') as f:
+                img_data = f.read()
+                image = MIMEImage(img_data, name=os.path.basename(image_path))
+                msg.attach(image)
+        except Exception as e:
+            print(f"Warning: Could not attach image {image_path}: {e}")
 
     try:
         # Default to Gmail SMTP

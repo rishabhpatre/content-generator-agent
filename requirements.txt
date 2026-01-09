@@ -3,3 +3,5 @@ google-generativeai
 python-dotenv
 rich
 feedparser
+Pillow
+requests
