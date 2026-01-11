@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add data/posted_history.json
+          git add -f data/posted_history.json
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update posted history [skip ci]" && git push)
