@@ -1,6 +1,7 @@
 import arxiv
 from dataclasses import dataclass
 from typing import List
+from datetime import datetime, timedelta
 
 @dataclass
 class Paper:
@@ -30,8 +31,15 @@ def search_papers(query: str = "LLM OR \"Artificial Intelligence\"", max_results
         sort_order=arxiv.SortOrder.Descending
     )
 
+    today = datetime.now()
+    cutoff_date = today - timedelta(days=4)
+    
     papers = []
     for result in client.results(search):
+        # Arxiv result.published is a datetime object
+        if result.published.replace(tzinfo=None) < cutoff_date:
+            continue
+            
         paper = Paper(
             title=result.title,
             summary=result.summary,

@@ -2,7 +2,7 @@ import feedparser
 from dataclasses import dataclass
 from typing import List
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 
 @dataclass
 class NewsItem:
@@ -57,6 +57,18 @@ def fetch_rss_items(feeds=DEFAULT_FEEDS, max_items_per_feed=2) -> List[NewsItem]
                 elif hasattr(entry, 'updated'):
                     published = entry.updated
 
+                # Filter by date (last 4 days)
+                published_time = None
+                if hasattr(entry, 'published_parsed'):
+                    published_time = entry.published_parsed
+                elif hasattr(entry, 'updated_parsed'):
+                    published_time = entry.updated_parsed
+                
+                if published_time:
+                    item_date = datetime.fromtimestamp(time.mktime(published_time))
+                    if item_date < (datetime.now() - timedelta(days=4)):
+                        continue
+                        
                 all_items.append(NewsItem(
                     title=entry.title,
                     summary=summary,
