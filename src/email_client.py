@@ -33,6 +33,7 @@ def send_email(subject: str, body: str, to_email: Optional[str] = None, image_pa
             with open(image_path, 'rb') as f:
                 img_data = f.read()
                 image = MIMEImage(img_data, name=os.path.basename(image_path))
+                image.add_header('Content-Disposition', 'attachment', filename=os.path.basename(image_path))
                 msg.attach(image)
         except Exception as e:
             print(f"Warning: Could not attach image {image_path}: {e}")
