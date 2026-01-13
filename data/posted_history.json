@@ -22,5 +22,17 @@
         "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
         "type": "news",
         "date_posted": "2026-01-12T03:20:59.913019"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.07832v1",
+        "title": "MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head",
+        "type": "paper",
+        "date_posted": "2026-01-13T03:12:22.247033"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+        "title": "Meet the new biologists treating LLMs like aliens",
+        "type": "news",
+        "date_posted": "2026-01-13T03:12:22.247414"
     }
 ]
