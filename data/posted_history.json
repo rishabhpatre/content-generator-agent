@@ -34,5 +34,17 @@
         "title": "Meet the new biologists treating LLMs like aliens",
         "type": "news",
         "date_posted": "2026-01-13T03:12:22.247414"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.08808v1",
+        "title": "Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge",
+        "type": "paper",
+        "date_posted": "2026-01-14T03:19:31.473123"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+        "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+        "type": "news",
+        "date_posted": "2026-01-14T03:19:31.473437"
     }
 ]
