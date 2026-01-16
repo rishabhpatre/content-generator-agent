@@ -58,5 +58,17 @@
         "title": "A single click mounted a covert, multistage attack against Copilot",
         "type": "news",
         "date_posted": "2026-01-15T03:14:07.735812"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.10710v1",
+        "title": "From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion",
+        "type": "paper",
+        "date_posted": "2026-01-16T03:13:57.220401"
+    },
+    {
+        "url": "https://openai.com/index/investing-in-merge-labs",
+        "title": "Investing in Merge Labs",
+        "type": "news",
+        "date_posted": "2026-01-16T03:13:57.220829"
     }
 ]
