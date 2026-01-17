@@ -70,5 +70,17 @@
         "title": "Investing in Merge Labs",
         "type": "news",
         "date_posted": "2026-01-16T03:13:57.220829"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.10702v1",
+        "title": "Grounding Agent Memory in Contextual Intent",
+        "type": "paper",
+        "date_posted": "2026-01-17T03:03:42.590347"
+    },
+    {
+        "url": "https://openai.com/index/introducing-chatgpt-go",
+        "title": "Introducing ChatGPT Go, now available worldwide",
+        "type": "news",
+        "date_posted": "2026-01-17T03:03:42.590800"
     }
 ]
