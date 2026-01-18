@@ -82,5 +82,17 @@
         "title": "Introducing ChatGPT Go, now available worldwide",
         "type": "news",
         "date_posted": "2026-01-17T03:03:42.590800"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.10696v1",
+        "title": "The Impact of Generative AI on Architectural Conceptual Design: Performance, Creative Self-Efficacy and Cognitive Load",
+        "type": "paper",
+        "date_posted": "2026-01-18T03:19:41.256483"
+    },
+    {
+        "url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+        "title": "Google brings its AI videomaker to Workspace users",
+        "type": "news",
+        "date_posted": "2026-01-18T03:19:41.256896"
     }
 ]
