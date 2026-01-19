@@ -94,5 +94,17 @@
         "title": "Google brings its AI videomaker to Workspace users",
         "type": "news",
         "date_posted": "2026-01-18T03:19:41.256896"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.11516v1",
+        "title": "Building Production-Ready Probes For Gemini",
+        "type": "paper",
+        "date_posted": "2026-01-19T03:21:31.025280"
+    },
+    {
+        "url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
+        "title": "OpenAI to test ads in ChatGPT as it burns through billions",
+        "type": "news",
+        "date_posted": "2026-01-19T03:21:31.025696"
     }
 ]
