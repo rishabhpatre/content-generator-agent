@@ -106,5 +106,17 @@
         "title": "OpenAI to test ads in ChatGPT as it burns through billions",
         "type": "news",
         "date_posted": "2026-01-19T03:21:31.025696"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.11496v1",
+        "title": "The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents",
+        "type": "paper",
+        "date_posted": "2026-01-20T03:16:39.465471"
+    },
+    {
+        "url": "https://openai.com/index/ai-for-self-empowerment",
+        "title": "AI for self empowerment",
+        "type": "news",
+        "date_posted": "2026-01-20T03:16:39.465941"
     }
 ]
