@@ -118,5 +118,17 @@
         "title": "AI for self empowerment",
         "type": "news",
         "date_posted": "2026-01-20T03:16:39.465941"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.13590v1",
+        "title": "Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions",
+        "type": "paper",
+        "date_posted": "2026-01-21T03:15:10.926383"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+        "title": "The UK government is backing AI that can run its own lab experiments",
+        "type": "news",
+        "date_posted": "2026-01-21T03:15:10.926880"
     }
 ]
