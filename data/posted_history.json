@@ -130,5 +130,17 @@
         "title": "The UK government is backing AI that can run its own lab experiments",
         "type": "news",
         "date_posted": "2026-01-21T03:15:10.926880"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.15286v1",
+        "title": "Iterative Refinement Improves Compositional Image Generation",
+        "type": "paper",
+        "date_posted": "2026-01-22T03:20:11.475682"
+    },
+    {
+        "url": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+        "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+        "type": "news",
+        "date_posted": "2026-01-22T03:20:11.476238"
     }
 ]
