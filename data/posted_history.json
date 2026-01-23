@@ -142,5 +142,17 @@
         "title": "Apple is reportedly working on an AirTag-sized AI wearable",
         "type": "news",
         "date_posted": "2026-01-22T03:20:11.476238"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.16175v1",
+        "title": "Learning to Discover at Test Time",
+        "type": "paper",
+        "date_posted": "2026-01-23T03:15:39.259304"
+    },
+    {
+        "url": "https://openai.com/index/praktika",
+        "title": "Inside Praktika's conversational approach to language learning",
+        "type": "news",
+        "date_posted": "2026-01-23T03:15:39.261327"
     }
 ]
