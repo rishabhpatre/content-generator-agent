@@ -154,5 +154,17 @@
         "title": "Inside Praktika's conversational approach to language learning",
         "type": "news",
         "date_posted": "2026-01-23T03:15:39.261327"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.16206v1",
+        "title": "LLM-in-Sandbox Elicits General Agentic Intelligence",
+        "type": "paper",
+        "date_posted": "2026-01-24T03:09:40.045361"
+    },
+    {
+        "url": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data",
+        "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+        "type": "news",
+        "date_posted": "2026-01-24T03:09:40.045789"
     }
 ]
