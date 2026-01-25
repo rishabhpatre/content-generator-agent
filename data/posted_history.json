@@ -166,5 +166,17 @@
         "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
         "type": "news",
         "date_posted": "2026-01-24T03:09:40.045789"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.16163v1",
+        "title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+        "type": "paper",
+        "date_posted": "2026-01-25T03:26:18.539960"
+    },
+    {
+        "url": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
+        "title": "Gemini with Personal Intelligence is awfully familiar",
+        "type": "news",
+        "date_posted": "2026-01-25T03:26:18.540543"
     }
 ]
