@@ -178,5 +178,17 @@
         "title": "Gemini with Personal Intelligence is awfully familiar",
         "type": "news",
         "date_posted": "2026-01-25T03:26:18.540543"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.16971v1",
+        "title": "Auto-Regressive Masked Diffusion Models",
+        "type": "paper",
+        "date_posted": "2026-01-26T03:29:11.309247"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+        "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+        "type": "news",
+        "date_posted": "2026-01-26T03:29:11.309848"
     }
 ]
