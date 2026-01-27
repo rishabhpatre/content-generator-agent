@@ -190,5 +190,17 @@
         "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
         "type": "news",
         "date_posted": "2026-01-26T03:29:11.309848"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.18779v1",
+        "title": "POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration",
+        "type": "paper",
+        "date_posted": "2026-01-27T03:21:16.630647"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+        "title": "Inside OpenAI\u2019s big play for science",
+        "type": "news",
+        "date_posted": "2026-01-27T03:21:16.631232"
     }
 ]
