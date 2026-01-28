@@ -202,5 +202,17 @@
         "title": "Inside OpenAI\u2019s big play for science",
         "type": "news",
         "date_posted": "2026-01-27T03:21:16.631232"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.19895v1",
+        "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
+        "type": "paper",
+        "date_posted": "2026-01-28T03:17:53.014076"
+    },
+    {
+        "url": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
+        "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech\u2019s new obsession",
+        "type": "news",
+        "date_posted": "2026-01-28T03:17:53.014617"
     }
 ]
