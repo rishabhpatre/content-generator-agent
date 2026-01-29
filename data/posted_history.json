@@ -214,5 +214,17 @@
         "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech\u2019s new obsession",
         "type": "news",
         "date_posted": "2026-01-28T03:17:53.014617"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.20858v1",
+        "title": "When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation",
+        "type": "paper",
+        "date_posted": "2026-01-29T03:39:00.659481"
+    },
+    {
+        "url": "https://huggingface.co/blog/upskill",
+        "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+        "type": "news",
+        "date_posted": "2026-01-29T03:39:00.660072"
     }
 ]
