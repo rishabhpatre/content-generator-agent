@@ -226,5 +226,17 @@
         "title": "We Got Claude to Build CUDA Kernels and teach open models!",
         "type": "news",
         "date_posted": "2026-01-29T03:39:00.660072"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.22156v1",
+        "title": "Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts",
+        "type": "paper",
+        "date_posted": "2026-01-30T03:39:56.802208"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "type": "news",
+        "date_posted": "2026-01-30T03:39:56.802759"
     }
 ]
