@@ -238,5 +238,17 @@
         "title": "Project Genie: Experimenting with infinite, interactive worlds",
         "type": "news",
         "date_posted": "2026-01-30T03:39:56.802759"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.22146v1",
+        "title": "FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale",
+        "type": "paper",
+        "date_posted": "2026-01-31T03:35:20.334907"
+    },
+    {
+        "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+        "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+        "type": "news",
+        "date_posted": "2026-01-31T03:35:20.335558"
     }
 ]
