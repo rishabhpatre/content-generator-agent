@@ -250,5 +250,17 @@
         "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
         "type": "news",
         "date_posted": "2026-01-31T03:35:20.335558"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.22149v1",
+        "title": "DynaWeb: Model-Based Reinforcement Learning of Web Agents",
+        "type": "paper",
+        "date_posted": "2026-02-01T04:09:06.923891"
+    },
+    {
+        "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+        "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+        "type": "news",
+        "date_posted": "2026-02-01T04:09:06.924559"
     }
 ]
