@@ -262,5 +262,17 @@
         "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
         "type": "news",
         "date_posted": "2026-02-01T04:09:06.924559"
+    },
+    {
+        "url": "http://arxiv.org/abs/2601.23286v1",
+        "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
+        "type": "paper",
+        "date_posted": "2026-02-02T04:01:28.612858"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+        "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+        "type": "news",
+        "date_posted": "2026-02-02T04:01:28.613446"
     }
 ]
