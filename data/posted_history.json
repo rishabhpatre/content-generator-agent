@@ -274,5 +274,17 @@
         "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
         "type": "news",
         "date_posted": "2026-02-02T04:01:28.613446"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.02051v1",
+        "title": "SIDiffAgent: Self-Improving Diffusion Agent",
+        "type": "paper",
+        "date_posted": "2026-02-03T03:54:02.446078"
+    },
+    {
+        "url": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x",
+        "title": "Elon Musk merges SpaceX with xAI (and X)",
+        "type": "news",
+        "date_posted": "2026-02-03T03:54:02.446618"
     }
 ]
