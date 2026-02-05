@@ -298,5 +298,17 @@
         "title": "Elon Musk is merging SpaceX and xAI to build data centers in space \u2014 or so he says",
         "type": "news",
         "date_posted": "2026-02-04T03:43:13.938761"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.04863v1",
+        "title": "Subliminal Effects in Your Data: A General Mechanism via Log-Linearity",
+        "type": "paper",
+        "date_posted": "2026-02-05T03:45:39.016587"
+    },
+    {
+        "url": "https://openai.com/index/navigating-health-questions",
+        "title": "Navigating health questions with ChatGPT",
+        "type": "news",
+        "date_posted": "2026-02-05T03:45:39.017166"
     }
 ]
