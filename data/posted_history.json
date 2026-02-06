@@ -310,5 +310,17 @@
         "title": "Navigating health questions with ChatGPT",
         "type": "news",
         "date_posted": "2026-02-05T03:45:39.017166"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.06036v1",
+        "title": "DFlash: Block Diffusion for Flash Speculative Decoding",
+        "type": "paper",
+        "date_posted": "2026-02-06T03:44:19.116103"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+        "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+        "type": "news",
+        "date_posted": "2026-02-06T03:44:19.116892"
     }
 ]
