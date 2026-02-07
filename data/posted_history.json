@@ -322,5 +322,17 @@
         "title": "GPT-5 lowers the cost of cell-free protein synthesis",
         "type": "news",
         "date_posted": "2026-02-06T03:44:19.116892"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.06043v1",
+        "title": "Shared LoRA Subspaces for almost Strict Continual Learning",
+        "type": "paper",
+        "date_posted": "2026-02-07T03:38:51.708460"
+    },
+    {
+        "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+        "title": "Sixteen Claude AI agents working together created a new C compiler",
+        "type": "news",
+        "date_posted": "2026-02-07T03:38:51.709152"
     }
 ]
