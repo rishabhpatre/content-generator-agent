@@ -334,5 +334,17 @@
         "title": "Sixteen Claude AI agents working together created a new C compiler",
         "type": "news",
         "date_posted": "2026-02-07T03:38:51.709152"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.06023v1",
+        "title": "Learning Event-Based Shooter Models from Virtual Reality Experiments",
+        "type": "paper",
+        "date_posted": "2026-02-08T04:14:28.065825"
+    },
+    {
+        "url": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
+        "title": "Apple might let you use ChatGPT from CarPlay",
+        "type": "news",
+        "date_posted": "2026-02-08T04:14:28.066588"
     }
 ]
