@@ -346,5 +346,17 @@
         "title": "Apple might let you use ChatGPT from CarPlay",
         "type": "news",
         "date_posted": "2026-02-08T04:14:28.066588"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.10090v1",
+        "title": "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning",
+        "type": "paper",
+        "date_posted": "2026-02-11T04:08:48.369700"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+        "title": "Why the Moltbook frenzy was like Pok\u00e9mon",
+        "type": "news",
+        "date_posted": "2026-02-11T04:08:48.370285"
     }
 ]
