@@ -358,5 +358,17 @@
         "title": "Why the Moltbook frenzy was like Pok\u00e9mon",
         "type": "news",
         "date_posted": "2026-02-11T04:08:48.370285"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.11136v1",
+        "title": "FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight",
+        "type": "paper",
+        "date_posted": "2026-02-12T04:02:52.937740"
+    },
+    {
+        "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+        "title": "Bringing ChatGPT to GenAI.mil",
+        "type": "news",
+        "date_posted": "2026-02-12T04:02:52.938430"
     }
 ]
