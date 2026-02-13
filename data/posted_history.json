@@ -370,5 +370,17 @@
         "title": "Bringing ChatGPT to GenAI.mil",
         "type": "news",
         "date_posted": "2026-02-12T04:02:52.938430"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.12259v1",
+        "title": "Think like a Scientist: Physics-guided LLM Agent for Equation Discovery",
+        "type": "paper",
+        "date_posted": "2026-02-13T03:59:34.150144"
+    },
+    {
+        "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+        "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+        "type": "news",
+        "date_posted": "2026-02-13T03:59:34.150936"
     }
 ]
