@@ -394,5 +394,17 @@
         "title": "GPT-5.2 derives a new result in theoretical physics",
         "type": "news",
         "date_posted": "2026-02-14T03:41:05.607125"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.12279v1",
+        "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
+        "type": "paper",
+        "date_posted": "2026-02-15T04:01:13.057498"
+    },
+    {
+        "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+        "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+        "type": "news",
+        "date_posted": "2026-02-15T04:01:13.058638"
     }
 ]
