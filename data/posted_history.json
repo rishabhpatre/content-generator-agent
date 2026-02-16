@@ -406,5 +406,17 @@
         "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
         "type": "news",
         "date_posted": "2026-02-15T04:01:13.058638"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.13156v1",
+        "title": "In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach",
+        "type": "paper",
+        "date_posted": "2026-02-16T04:01:50.226402"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
+        "title": "OpenClaw founder Peter Steinberger is joining OpenAI",
+        "type": "news",
+        "date_posted": "2026-02-16T04:01:50.227277"
     }
 ]
