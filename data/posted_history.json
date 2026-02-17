@@ -418,5 +418,17 @@
         "title": "OpenClaw founder Peter Steinberger is joining OpenAI",
         "type": "news",
         "date_posted": "2026-02-16T04:01:50.227277"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.15001v1",
+        "title": "Boundary Point Jailbreaking of Black-Box LLMs",
+        "type": "paper",
+        "date_posted": "2026-02-17T03:57:35.424835"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement",
+        "title": "After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
+        "type": "news",
+        "date_posted": "2026-02-17T03:57:35.425600"
     }
 ]
