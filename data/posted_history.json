@@ -430,5 +430,17 @@
         "title": "After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
         "type": "news",
         "date_posted": "2026-02-17T03:57:35.425600"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.15827v1",
+        "title": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
+        "type": "paper",
+        "date_posted": "2026-02-18T03:59:01.644323"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+        "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+        "type": "news",
+        "date_posted": "2026-02-18T03:59:01.645036"
     }
 ]
