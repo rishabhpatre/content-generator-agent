@@ -442,5 +442,17 @@
         "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
         "type": "news",
         "date_posted": "2026-02-18T03:59:01.645036"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.17645v1",
+        "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
+        "type": "paper",
+        "date_posted": "2026-02-20T03:45:25.376042"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+        "title": "The AI security nightmare is here and it looks suspiciously like lobster",
+        "type": "news",
+        "date_posted": "2026-02-20T03:45:25.376890"
     }
 ]
