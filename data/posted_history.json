@@ -454,5 +454,17 @@
         "title": "The AI security nightmare is here and it looks suspiciously like lobster",
         "type": "news",
         "date_posted": "2026-02-20T03:45:25.376890"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.17641v1",
+        "title": "FAMOSE: A ReAct Approach to Automated Feature Discovery",
+        "type": "paper",
+        "date_posted": "2026-02-22T03:56:27.188179"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+        "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+        "type": "news",
+        "date_posted": "2026-02-22T03:56:27.190083"
     }
 ]
