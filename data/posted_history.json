@@ -466,5 +466,17 @@
         "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
         "type": "news",
         "date_posted": "2026-02-22T03:56:27.190083"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.18420v1",
+        "title": "SPQ: An Ensemble Technique for Large Language Model Compression",
+        "type": "paper",
+        "date_posted": "2026-02-23T04:00:43.024411"
+    },
+    {
+        "url": "https://openai.com/index/first-proof-submissions",
+        "title": "Our First Proof submissions",
+        "type": "news",
+        "date_posted": "2026-02-23T04:00:43.025316"
     }
 ]
