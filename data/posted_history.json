@@ -478,5 +478,17 @@
         "title": "Our First Proof submissions",
         "type": "news",
         "date_posted": "2026-02-23T04:00:43.025316"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.20156v1",
+        "title": "Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks",
+        "type": "paper",
+        "date_posted": "2026-02-24T03:57:13.887457"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+        "title": "The human work behind humanoid robots is being hidden",
+        "type": "news",
+        "date_posted": "2026-02-24T03:57:13.888355"
     }
 ]
