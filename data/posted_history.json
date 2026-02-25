@@ -490,5 +490,17 @@
         "title": "The human work behind humanoid robots is being hidden",
         "type": "news",
         "date_posted": "2026-02-24T03:57:13.888355"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.21201v1",
+        "title": "Aletheia tackles FirstProof autonomously",
+        "type": "paper",
+        "date_posted": "2026-02-25T03:57:59.505033"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+        "title": "OpenAI defeats xAI\u2019s trade secrets lawsuit",
+        "type": "news",
+        "date_posted": "2026-02-25T03:57:59.505935"
     }
 ]
