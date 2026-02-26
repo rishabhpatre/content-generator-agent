@@ -502,5 +502,17 @@
         "title": "OpenAI defeats xAI\u2019s trade secrets lawsuit",
         "type": "news",
         "date_posted": "2026-02-25T03:57:59.505935"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.22197v1",
+        "title": "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes",
+        "type": "paper",
+        "date_posted": "2026-02-26T03:54:43.666651"
+    },
+    {
+        "url": "https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri",
+        "title": "Google and Samsung just launched the AI features Apple couldn\u2019t with Siri",
+        "type": "news",
+        "date_posted": "2026-02-26T03:54:43.667735"
     }
 ]
