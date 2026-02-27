@@ -514,5 +514,17 @@
         "title": "Google and Samsung just launched the AI features Apple couldn\u2019t with Siri",
         "type": "news",
         "date_posted": "2026-02-26T03:54:43.667735"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.23363v1",
+        "title": "MediX-R1: Open Ended Medical Reinforcement Learning",
+        "type": "paper",
+        "date_posted": "2026-02-27T03:42:25.621798"
+    },
+    {
+        "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+        "title": "Anthropic refuses Pentagon\u2019s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+        "type": "news",
+        "date_posted": "2026-02-27T03:42:25.622732"
     }
 ]
