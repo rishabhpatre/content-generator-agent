@@ -526,5 +526,17 @@
         "title": "Anthropic refuses Pentagon\u2019s new terms, standing firm on lethal autonomous weapons and mass surveillance",
         "type": "news",
         "date_posted": "2026-02-27T03:42:25.622732"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.23349v1",
+        "title": "FlashOptim: Optimizers for Memory Efficient Training",
+        "type": "paper",
+        "date_posted": "2026-02-28T03:25:10.379544"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+        "title": "AI is rewiring how the world\u2019s best Go players think",
+        "type": "news",
+        "date_posted": "2026-02-28T03:25:10.380507"
     }
 ]
