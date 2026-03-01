@@ -538,5 +538,17 @@
         "title": "AI is rewiring how the world\u2019s best Go players think",
         "type": "news",
         "date_posted": "2026-02-28T03:25:10.380507"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.23359v1",
+        "title": "SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation",
+        "type": "paper",
+        "date_posted": "2026-03-01T04:01:49.998141"
+    },
+    {
+        "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+        "title": "Trump orders federal agencies to drop Anthropic\u2019s AI",
+        "type": "news",
+        "date_posted": "2026-03-01T04:01:49.999068"
     }
 ]
