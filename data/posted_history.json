@@ -550,5 +550,17 @@
         "title": "Trump orders federal agencies to drop Anthropic\u2019s AI",
         "type": "news",
         "date_posted": "2026-03-01T04:01:49.999068"
+    },
+    {
+        "url": "http://arxiv.org/abs/2602.24286v1",
+        "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+        "type": "paper",
+        "date_posted": "2026-03-02T03:42:36.604092"
+    },
+    {
+        "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+        "title": "Our agreement with the Department of War",
+        "type": "news",
+        "date_posted": "2026-03-02T03:42:36.605218"
     }
 ]
