@@ -562,5 +562,17 @@
         "title": "Our agreement with the Department of War",
         "type": "news",
         "date_posted": "2026-03-02T03:42:36.605218"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.01732v1",
+        "title": "Bootstrapping Embeddings for Low Resource Languages",
+        "type": "paper",
+        "date_posted": "2026-03-03T03:45:23.227982"
+    },
+    {
+        "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+        "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+        "type": "news",
+        "date_posted": "2026-03-03T03:45:23.228916"
     }
 ]
