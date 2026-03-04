@@ -574,5 +574,17 @@
         "title": "Apple might use Google servers to store data for its upgraded AI Siri",
         "type": "news",
         "date_posted": "2026-03-03T03:45:23.228916"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.03282v1",
+        "title": "MIBURI: Towards Expressive Interactive Gesture Synthesis",
+        "type": "paper",
+        "date_posted": "2026-03-04T03:38:16.786387"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+        "title": "Create new worlds in Project Genie with these 4 tips",
+        "type": "news",
+        "date_posted": "2026-03-04T03:38:16.787399"
     }
 ]
