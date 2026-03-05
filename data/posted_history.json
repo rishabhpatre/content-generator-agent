@@ -586,5 +586,17 @@
         "title": "Create new worlds in Project Genie with these 4 tips",
         "type": "news",
         "date_posted": "2026-03-04T03:38:16.787399"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.04385v1",
+        "title": "ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training",
+        "type": "paper",
+        "date_posted": "2026-03-05T03:41:33.938063"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+        "title": "NotebookLM can now summarize research in \u2018cinematic\u2019 video overviews",
+        "type": "news",
+        "date_posted": "2026-03-05T03:41:33.938945"
     }
 ]
