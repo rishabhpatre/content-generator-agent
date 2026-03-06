@@ -598,5 +598,17 @@
         "title": "NotebookLM can now summarize research in \u2018cinematic\u2019 video overviews",
         "type": "news",
         "date_posted": "2026-03-05T03:41:33.938945"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.05489v1",
+        "title": "NL2GDS: LLM-aided interface for Open Source Chip Design",
+        "type": "paper",
+        "date_posted": "2026-03-06T03:40:21.732090"
+    },
+    {
+        "url": "https://openai.com/index/introducing-gpt-5-4",
+        "title": "Introducing GPT-5.4",
+        "type": "news",
+        "date_posted": "2026-03-06T03:40:21.733121"
     }
 ]
