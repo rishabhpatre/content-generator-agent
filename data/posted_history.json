@@ -610,5 +610,17 @@
         "title": "Introducing GPT-5.4",
         "type": "news",
         "date_posted": "2026-03-06T03:40:21.733121"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.05493v1",
+        "title": "cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots",
+        "type": "paper",
+        "date_posted": "2026-03-07T03:29:53.838782"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "title": "Is the Pentagon allowed to surveil Americans with AI?",
+        "type": "news",
+        "date_posted": "2026-03-07T03:29:53.839832"
     }
 ]
