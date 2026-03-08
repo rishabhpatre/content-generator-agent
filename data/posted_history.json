@@ -622,5 +622,17 @@
         "title": "Is the Pentagon allowed to surveil Americans with AI?",
         "type": "news",
         "date_posted": "2026-03-07T03:29:53.839832"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.05504v1",
+        "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+        "type": "paper",
+        "date_posted": "2026-03-08T03:42:11.655992"
+    },
+    {
+        "url": "https://openai.com/index/codex-security-now-in-research-preview",
+        "title": "Codex Security: now in research preview",
+        "type": "news",
+        "date_posted": "2026-03-08T03:42:11.657012"
     }
 ]
