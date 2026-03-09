@@ -634,5 +634,17 @@
         "title": "Codex Security: now in research preview",
         "type": "news",
         "date_posted": "2026-03-08T03:42:11.657012"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.06569v1",
+        "title": "Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders",
+        "type": "paper",
+        "date_posted": "2026-03-09T03:55:30.112606"
+    },
+    {
+        "url": "https://openai.com/index/descript",
+        "title": "How Descript enables multilingual video dubbing at scale",
+        "type": "news",
+        "date_posted": "2026-03-09T03:55:30.113619"
     }
 ]
