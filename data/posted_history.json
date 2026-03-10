@@ -646,5 +646,17 @@
         "title": "How Descript enables multilingual video dubbing at scale",
         "type": "news",
         "date_posted": "2026-03-09T03:55:30.113619"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.08706v1",
+        "title": "Agentic Critical Training",
+        "type": "paper",
+        "date_posted": "2026-03-10T03:38:25.440833"
+    },
+    {
+        "url": "https://huggingface.co/blog/ulysses-sp",
+        "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+        "type": "news",
+        "date_posted": "2026-03-10T03:38:25.441836"
     }
 ]
