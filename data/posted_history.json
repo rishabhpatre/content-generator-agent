@@ -658,5 +658,17 @@
         "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
         "type": "news",
         "date_posted": "2026-03-10T03:38:25.441836"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.09957v1",
+        "title": "Think Before You Lie: How Reasoning Improves Honesty",
+        "type": "paper",
+        "date_posted": "2026-03-11T03:38:12.440880"
+    },
+    {
+        "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+        "title": "New ways to learn math and science in ChatGPT",
+        "type": "news",
+        "date_posted": "2026-03-11T03:38:12.441929"
     }
 ]
