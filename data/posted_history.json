@@ -682,5 +682,17 @@
         "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
         "type": "news",
         "date_posted": "2026-03-12T03:43:59.458401"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.12246v1",
+        "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+        "type": "paper",
+        "date_posted": "2026-03-13T03:41:26.712774"
+    },
+    {
+        "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
+        "title": "Gemini\u2019s task automation is here and it\u2019s wild",
+        "type": "news",
+        "date_posted": "2026-03-13T03:41:26.713909"
     }
 ]
