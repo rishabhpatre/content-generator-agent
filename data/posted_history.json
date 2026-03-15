@@ -694,5 +694,17 @@
         "title": "Gemini\u2019s task automation is here and it\u2019s wild",
         "type": "news",
         "date_posted": "2026-03-13T03:41:26.713909"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.12261v1",
+        "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
+        "type": "paper",
+        "date_posted": "2026-03-15T04:10:46.040518"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+        "type": "news",
+        "date_posted": "2026-03-15T04:10:46.041602"
     }
 ]
