@@ -706,5 +706,17 @@
         "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
         "type": "news",
         "date_posted": "2026-03-15T04:10:46.041602"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.13220v1",
+        "title": "A Generative Model of Conspicuous Consumption and Status Signaling",
+        "type": "paper",
+        "date_posted": "2026-03-16T04:17:42.950466"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+        "title": "AI companies want to harvest improv actors\u2019 skills to train AI on human emotion",
+        "type": "news",
+        "date_posted": "2026-03-16T04:17:42.951550"
     }
 ]
