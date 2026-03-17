@@ -718,5 +718,17 @@
         "title": "AI companies want to harvest improv actors\u2019 skills to train AI on human emotion",
         "type": "news",
         "date_posted": "2026-03-16T04:17:42.951550"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.15615v1",
+        "title": "Mechanistic Origin of Moral Indifference in Language Models",
+        "type": "paper",
+        "date_posted": "2026-03-17T03:55:44.593811"
+    },
+    {
+        "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+        "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+        "type": "news",
+        "date_posted": "2026-03-17T03:55:44.594872"
     }
 ]
