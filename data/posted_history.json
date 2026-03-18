@@ -730,5 +730,17 @@
         "title": "DLSS 5 looks like a real-time generative AI filter for video games",
         "type": "news",
         "date_posted": "2026-03-17T03:55:44.594872"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.16870v1",
+        "title": "Demystifing Video Reasoning",
+        "type": "paper",
+        "date_posted": "2026-03-18T04:01:55.244459"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+        "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+        "type": "news",
+        "date_posted": "2026-03-18T04:01:55.245604"
     }
 ]
