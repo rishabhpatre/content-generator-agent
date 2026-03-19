@@ -742,5 +742,17 @@
         "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
         "type": "news",
         "date_posted": "2026-03-18T04:01:55.245604"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.18000v1",
+        "title": "AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+        "type": "paper",
+        "date_posted": "2026-03-19T04:00:11.437907"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+        "title": "Bringing the power of Personal Intelligence to more people",
+        "type": "news",
+        "date_posted": "2026-03-19T04:00:11.438920"
     }
 ]
