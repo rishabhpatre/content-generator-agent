@@ -754,5 +754,17 @@
         "title": "Bringing the power of Personal Intelligence to more people",
         "type": "news",
         "date_posted": "2026-03-19T04:00:11.438920"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.19220v1",
+        "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+        "type": "paper",
+        "date_posted": "2026-03-20T03:42:57.853871"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+        "title": "A rogue AI led to a serious security incident at Meta",
+        "type": "news",
+        "date_posted": "2026-03-20T03:42:57.854974"
     }
 ]
