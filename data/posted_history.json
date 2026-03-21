@@ -766,5 +766,17 @@
         "title": "A rogue AI led to a serious security incident at Meta",
         "type": "news",
         "date_posted": "2026-03-20T03:42:57.854974"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.19215v1",
+        "title": "$R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+        "type": "paper",
+        "date_posted": "2026-03-21T03:36:16.316704"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+        "title": "OpenAI is throwing everything into building a fully automated researcher",
+        "type": "news",
+        "date_posted": "2026-03-21T03:36:16.317871"
     }
 ]
