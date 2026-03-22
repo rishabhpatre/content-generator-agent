@@ -778,5 +778,17 @@
         "title": "OpenAI is throwing everything into building a fully automated researcher",
         "type": "news",
         "date_posted": "2026-03-21T03:36:16.317871"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.19216v1",
+        "title": "DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+        "type": "paper",
+        "date_posted": "2026-03-22T03:58:19.549207"
+    },
+    {
+        "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "title": "Gemini task automation is slow, clunky, and super impressive",
+        "type": "news",
+        "date_posted": "2026-03-22T03:58:19.550290"
     }
 ]
