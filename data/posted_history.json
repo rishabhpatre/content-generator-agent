@@ -790,5 +790,17 @@
         "title": "Gemini task automation is slow, clunky, and super impressive",
         "type": "news",
         "date_posted": "2026-03-22T03:58:19.550290"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.22282v1",
+        "title": "UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation",
+        "type": "paper",
+        "date_posted": "2026-03-24T03:55:44.516311"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+        "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
+        "type": "news",
+        "date_posted": "2026-03-24T03:55:44.517551"
     }
 ]
