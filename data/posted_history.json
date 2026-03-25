@@ -802,5 +802,17 @@
         "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
         "type": "news",
         "date_posted": "2026-03-24T03:55:44.517551"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.23485v1",
+        "title": "Failure of contextual invariance in gender inference with large language models",
+        "type": "paper",
+        "date_posted": "2026-03-25T03:57:52.503781"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+        "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI data centers later this year",
+        "type": "news",
+        "date_posted": "2026-03-25T03:57:52.504959"
     }
 ]
