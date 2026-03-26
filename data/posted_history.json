@@ -814,5 +814,17 @@
         "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI data centers later this year",
         "type": "news",
         "date_posted": "2026-03-25T03:57:52.504959"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.24579v1",
+        "title": "MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+        "type": "paper",
+        "date_posted": "2026-03-26T04:10:43.578483"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "title": "Agentic commerce runs on truth and context",
+        "type": "news",
+        "date_posted": "2026-03-26T04:10:43.579662"
     }
 ]
