@@ -826,5 +826,17 @@
         "title": "Agentic commerce runs on truth and context",
         "type": "news",
         "date_posted": "2026-03-26T04:10:43.579662"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.25730v1",
+        "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+        "type": "paper",
+        "date_posted": "2026-03-28T03:56:49.220154"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+        "title": "This startup wants to change how mathematicians do math",
+        "type": "news",
+        "date_posted": "2026-03-28T03:56:49.221302"
     }
 ]
