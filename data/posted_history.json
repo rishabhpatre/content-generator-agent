@@ -838,5 +838,17 @@
         "title": "This startup wants to change how mathematicians do math",
         "type": "news",
         "date_posted": "2026-03-28T03:56:49.221302"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.28762v1",
+        "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+        "type": "paper",
+        "date_posted": "2026-03-31T04:13:32.242569"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+        "title": "There are more AI health tools than ever\u2014but how well do they work?",
+        "type": "news",
+        "date_posted": "2026-03-31T04:13:32.243883"
     }
 ]
