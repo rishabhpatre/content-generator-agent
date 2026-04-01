@@ -850,5 +850,17 @@
         "title": "There are more AI health tools than ever\u2014but how well do they work?",
         "type": "news",
         "date_posted": "2026-03-31T04:13:32.243883"
+    },
+    {
+        "url": "http://arxiv.org/abs/2603.30036v1",
+        "title": "Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?",
+        "type": "paper",
+        "date_posted": "2026-04-01T04:27:20.366607"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+        "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
+        "type": "news",
+        "date_posted": "2026-04-01T04:27:20.367684"
     }
 ]
