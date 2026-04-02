@@ -862,5 +862,17 @@
         "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
         "type": "news",
         "date_posted": "2026-04-01T04:27:20.367684"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.01210v1",
+        "title": "CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery",
+        "type": "paper",
+        "date_posted": "2026-04-02T04:05:56.717383"
+    },
+    {
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+        "title": "Accelerating the next phase of AI",
+        "type": "news",
+        "date_posted": "2026-04-02T04:05:56.718631"
     }
 ]
