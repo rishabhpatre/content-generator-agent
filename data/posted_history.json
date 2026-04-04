@@ -874,5 +874,17 @@
         "title": "Accelerating the next phase of AI",
         "type": "news",
         "date_posted": "2026-04-02T04:05:56.718631"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.02330v1",
+        "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+        "type": "paper",
+        "date_posted": "2026-04-04T03:55:16.542200"
+    },
+    {
+        "url": "https://huggingface.co/blog/gemma4",
+        "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+        "type": "news",
+        "date_posted": "2026-04-04T03:55:16.543458"
     }
 ]
