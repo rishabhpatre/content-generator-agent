@@ -886,5 +886,17 @@
         "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
         "type": "news",
         "date_posted": "2026-04-04T03:55:16.543458"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.02322v1",
+        "title": "Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+        "type": "paper",
+        "date_posted": "2026-04-05T04:15:37.551609"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+        "title": "The gig workers who are training humanoid robots at home",
+        "type": "news",
+        "date_posted": "2026-04-05T04:15:37.552778"
     }
 ]
