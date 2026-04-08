@@ -922,5 +922,17 @@
         "title": "Iran threatens OpenAI\u2019s Stargate data center in Abu Dhabi",
         "type": "news",
         "date_posted": "2026-04-07T04:10:40.027115"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.06169v1",
+        "title": "In-Place Test-Time Training",
+        "type": "paper",
+        "date_posted": "2026-04-08T04:14:22.537928"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+        "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+        "type": "news",
+        "date_posted": "2026-04-08T04:14:22.539183"
     }
 ]
