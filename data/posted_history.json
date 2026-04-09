@@ -934,5 +934,17 @@
         "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
         "type": "news",
         "date_posted": "2026-04-08T04:14:22.539183"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.07348v1",
+        "title": "MoRight: Motion Control Done Right",
+        "type": "paper",
+        "date_posted": "2026-04-09T04:08:51.229931"
+    },
+    {
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+        "title": "ALTK\u2011Evolve: On\u2011the\u2011Job Learning for AI Agents",
+        "type": "news",
+        "date_posted": "2026-04-09T04:08:51.231362"
     }
 ]
