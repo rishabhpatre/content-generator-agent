@@ -958,5 +958,17 @@
         "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
         "type": "news",
         "date_posted": "2026-04-10T04:24:44.236599"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.08536v1",
+        "title": "RewardFlow: Generate Images by Optimizing What You Reward",
+        "type": "paper",
+        "date_posted": "2026-04-11T03:59:17.420163"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+        "title": "Enabling agent-first process redesign",
+        "type": "news",
+        "date_posted": "2026-04-11T03:59:17.421476"
     }
 ]
