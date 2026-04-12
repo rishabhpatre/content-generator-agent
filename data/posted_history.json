@@ -970,5 +970,17 @@
         "title": "Enabling agent-first process redesign",
         "type": "news",
         "date_posted": "2026-04-11T03:59:17.421476"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.08529v1",
+        "title": "PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents",
+        "type": "paper",
+        "date_posted": "2026-04-12T04:26:00.484116"
+    },
+    {
+        "url": "https://huggingface.co/blog/waypoint-1-5",
+        "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+        "type": "news",
+        "date_posted": "2026-04-12T04:26:00.485513"
     }
 ]
