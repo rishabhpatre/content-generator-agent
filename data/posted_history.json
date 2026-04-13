@@ -982,5 +982,17 @@
         "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
         "type": "news",
         "date_posted": "2026-04-12T04:26:00.485513"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.09544v1",
+        "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+        "type": "paper",
+        "date_posted": "2026-04-13T04:38:30.308413"
+    },
+    {
+        "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+        "title": "The AI code wars are heating up",
+        "type": "news",
+        "date_posted": "2026-04-13T04:38:30.309683"
     }
 ]
