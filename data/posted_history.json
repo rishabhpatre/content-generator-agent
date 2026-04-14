@@ -994,5 +994,17 @@
         "title": "The AI code wars are heating up",
         "type": "news",
         "date_posted": "2026-04-13T04:38:30.309683"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.11806v1",
+        "title": "Detecting Safety Violations Across Many Agent Traces",
+        "type": "paper",
+        "date_posted": "2026-04-14T04:24:05.540036"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+        "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI\u2019s HQ",
+        "type": "news",
+        "date_posted": "2026-04-14T04:24:05.541234"
     }
 ]
