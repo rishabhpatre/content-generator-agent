@@ -1006,5 +1006,17 @@
         "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI\u2019s HQ",
         "type": "news",
         "date_posted": "2026-04-14T04:24:05.541234"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.14142v1",
+        "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+        "type": "paper",
+        "date_posted": "2026-04-16T04:29:35.485895"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+        "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+        "type": "news",
+        "date_posted": "2026-04-16T04:29:35.487447"
     }
 ]
