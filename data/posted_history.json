@@ -1018,5 +1018,17 @@
         "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
         "type": "news",
         "date_posted": "2026-04-16T04:29:35.487447"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.15309v1",
+        "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+        "type": "paper",
+        "date_posted": "2026-04-17T04:27:04.475037"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+        "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
+        "type": "news",
+        "date_posted": "2026-04-17T04:27:04.476349"
     }
 ]
