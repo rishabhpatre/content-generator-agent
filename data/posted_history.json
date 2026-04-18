@@ -1030,5 +1030,17 @@
         "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
         "type": "news",
         "date_posted": "2026-04-17T04:27:04.476349"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.15280v1",
+        "title": "Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+        "type": "paper",
+        "date_posted": "2026-04-18T04:09:05.756523"
+    },
+    {
+        "url": "https://openai.com/index/introducing-gpt-rosalind",
+        "title": "Introducing GPT-Rosalind for life sciences research",
+        "type": "news",
+        "date_posted": "2026-04-18T04:09:05.757955"
     }
 ]
