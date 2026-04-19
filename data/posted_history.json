@@ -1042,5 +1042,17 @@
         "title": "Introducing GPT-Rosalind for life sciences research",
         "type": "news",
         "date_posted": "2026-04-18T04:09:05.757955"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.15291v1",
+        "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+        "type": "paper",
+        "date_posted": "2026-04-19T04:29:49.093887"
+    },
+    {
+        "url": "https://openai.com/index/codex-for-almost-everything",
+        "title": "Codex for (almost) everything",
+        "type": "news",
+        "date_posted": "2026-04-19T04:29:49.095193"
     }
 ]
