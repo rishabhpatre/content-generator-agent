@@ -1054,5 +1054,17 @@
         "title": "Codex for (almost) everything",
         "type": "news",
         "date_posted": "2026-04-19T04:29:49.095193"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.16286v1",
+        "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+        "type": "paper",
+        "date_posted": "2026-04-20T04:37:40.284456"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+        "title": "A new way to explore the web with AI Mode in Chrome",
+        "type": "news",
+        "date_posted": "2026-04-20T04:37:40.285774"
     }
 ]
