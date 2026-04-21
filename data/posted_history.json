@@ -1066,5 +1066,17 @@
         "title": "A new way to explore the web with AI Mode in Chrome",
         "type": "news",
         "date_posted": "2026-04-20T04:37:40.285774"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.18572v1",
+        "title": "Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale",
+        "type": "paper",
+        "date_posted": "2026-04-21T04:26:46.445895"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+        "title": "Chinese tech workers are starting to train their AI doubles\u2013and pushing back",
+        "type": "news",
+        "date_posted": "2026-04-21T04:26:46.447393"
     }
 ]
