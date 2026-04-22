@@ -1078,5 +1078,17 @@
         "title": "Chinese tech workers are starting to train their AI doubles\u2013and pushing back",
         "type": "news",
         "date_posted": "2026-04-21T04:26:46.447393"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.19734v1",
+        "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+        "type": "paper",
+        "date_posted": "2026-04-22T04:24:27.218640"
+    },
+    {
+        "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+        "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+        "type": "news",
+        "date_posted": "2026-04-22T04:24:27.220184"
     }
 ]
