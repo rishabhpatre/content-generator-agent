@@ -1090,5 +1090,17 @@
         "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
         "type": "news",
         "date_posted": "2026-04-22T04:24:27.220184"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.20811v1",
+        "title": "Diagnosing CFG Interpretation in LLMs",
+        "type": "paper",
+        "date_posted": "2026-04-23T04:28:48.092377"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+        "title": "OpenAI now lets teams make custom bots that can do work on their own",
+        "type": "news",
+        "date_posted": "2026-04-23T04:28:48.093875"
     }
 ]
