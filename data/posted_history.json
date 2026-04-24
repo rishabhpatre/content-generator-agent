@@ -1102,5 +1102,17 @@
         "title": "OpenAI now lets teams make custom bots that can do work on their own",
         "type": "news",
         "date_posted": "2026-04-23T04:28:48.093875"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.21931v1",
+        "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+        "type": "paper",
+        "date_posted": "2026-04-24T04:32:38.754063"
+    },
+    {
+        "url": "https://openai.com/index/introducing-gpt-5-5",
+        "title": "Introducing GPT-5.5",
+        "type": "news",
+        "date_posted": "2026-04-24T04:32:38.755582"
     }
 ]
