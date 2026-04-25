@@ -1114,5 +1114,17 @@
         "title": "Introducing GPT-5.5",
         "type": "news",
         "date_posted": "2026-04-24T04:32:38.755582"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.21910v1",
+        "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
+        "type": "paper",
+        "date_posted": "2026-04-25T04:13:45.533616"
+    },
+    {
+        "url": "https://huggingface.co/blog/deepseekv4",
+        "title": "DeepSeek-V4: a million-token context that agents can actually use",
+        "type": "news",
+        "date_posted": "2026-04-25T04:13:45.534969"
     }
 ]
