@@ -1126,5 +1126,17 @@
         "title": "DeepSeek-V4: a million-token context that agents can actually use",
         "type": "news",
         "date_posted": "2026-04-25T04:13:45.534969"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.22750v1",
+        "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+        "type": "paper",
+        "date_posted": "2026-04-27T04:47:31.272907"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-5-system-card",
+        "title": "GPT-5.5 System Card",
+        "type": "news",
+        "date_posted": "2026-04-27T04:47:31.274313"
     }
 ]
