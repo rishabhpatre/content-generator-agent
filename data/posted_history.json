@@ -1138,5 +1138,17 @@
         "title": "GPT-5.5 System Card",
         "type": "news",
         "date_posted": "2026-04-27T04:47:31.274313"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.24715v1",
+        "title": "Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling",
+        "type": "paper",
+        "date_posted": "2026-04-28T04:52:07.398890"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
+        "type": "news",
+        "date_posted": "2026-04-28T04:52:07.400346"
     }
 ]
