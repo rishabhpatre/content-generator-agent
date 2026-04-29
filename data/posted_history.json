@@ -1150,5 +1150,17 @@
         "title": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
         "type": "news",
         "date_posted": "2026-04-28T04:52:07.400346"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.25903v1",
+        "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
+        "type": "paper",
+        "date_posted": "2026-04-29T04:46:52.212627"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+        "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+        "type": "news",
+        "date_posted": "2026-04-29T04:46:52.214274"
     }
 ]
