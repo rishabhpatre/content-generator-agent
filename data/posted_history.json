@@ -1162,5 +1162,17 @@
         "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
         "type": "news",
         "date_posted": "2026-04-29T04:46:52.214274"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.26940v1",
+        "title": "Select to Think: Unlocking SLM Potential with Local Sufficiency",
+        "type": "paper",
+        "date_posted": "2026-04-30T04:51:05.312253"
+    },
+    {
+        "url": "https://openai.com/index/where-the-goblins-came-from",
+        "title": "Where the goblins came from",
+        "type": "news",
+        "date_posted": "2026-04-30T04:51:05.313728"
     }
 ]
