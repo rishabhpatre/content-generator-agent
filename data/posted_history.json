@@ -1174,5 +1174,17 @@
         "title": "Where the goblins came from",
         "type": "news",
         "date_posted": "2026-04-30T04:51:05.313728"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.28182v1",
+        "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+        "type": "paper",
+        "date_posted": "2026-05-01T05:02:33.701269"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+        "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
+        "type": "news",
+        "date_posted": "2026-05-01T05:02:33.702973"
     }
 ]
