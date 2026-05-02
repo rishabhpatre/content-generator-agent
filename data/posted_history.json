@@ -1186,5 +1186,17 @@
         "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
         "type": "news",
         "date_posted": "2026-05-01T05:02:33.702973"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.28181v1",
+        "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+        "type": "paper",
+        "date_posted": "2026-05-02T04:36:43.893940"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+        "type": "news",
+        "date_posted": "2026-05-02T04:36:43.895550"
     }
 ]
