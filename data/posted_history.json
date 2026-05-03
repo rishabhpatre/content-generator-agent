@@ -1198,5 +1198,17 @@
         "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
         "type": "news",
         "date_posted": "2026-05-02T04:36:43.895550"
+    },
+    {
+        "url": "http://arxiv.org/abs/2604.28169v1",
+        "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
+        "type": "paper",
+        "date_posted": "2026-05-03T04:55:08.718003"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+        "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
+        "type": "news",
+        "date_posted": "2026-05-03T04:55:08.719632"
     }
 ]
