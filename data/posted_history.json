@@ -1222,5 +1222,17 @@
         "title": "How the internet\u2019s favorite squirrel dad made the hottest camera app of 2026",
         "type": "news",
         "date_posted": "2026-05-04T04:55:39.470492"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.02868v1",
+        "title": "EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs",
+        "type": "paper",
+        "date_posted": "2026-05-05T04:36:39.921854"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+        "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+        "type": "news",
+        "date_posted": "2026-05-05T04:36:39.923436"
     }
 ]
