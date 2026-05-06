@@ -1234,5 +1234,17 @@
         "title": "Week one of the Musk v. Altman trial: What it was like in the room",
         "type": "news",
         "date_posted": "2026-05-05T04:36:39.923436"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.04012v1",
+        "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+        "type": "paper",
+        "date_posted": "2026-05-06T04:50:33.989644"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-5-instant",
+        "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+        "type": "news",
+        "date_posted": "2026-05-06T04:50:33.991184"
     }
 ]
