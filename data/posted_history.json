@@ -1246,5 +1246,17 @@
         "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
         "type": "news",
         "date_posted": "2026-05-06T04:50:33.991184"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.05193v1",
+        "title": "Grokability in five inequalities",
+        "type": "paper",
+        "date_posted": "2026-05-07T04:51:03.015080"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+        "title": "A blueprint for using AI to strengthen democracy",
+        "type": "news",
+        "date_posted": "2026-05-07T04:51:03.016630"
     }
 ]
