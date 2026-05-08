@@ -1258,5 +1258,17 @@
         "title": "A blueprint for using AI to strengthen democracy",
         "type": "news",
         "date_posted": "2026-05-07T04:51:03.016630"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.06656v1",
+        "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+        "type": "paper",
+        "date_posted": "2026-05-08T04:31:04.398640"
+    },
+    {
+        "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+        "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+        "type": "news",
+        "date_posted": "2026-05-08T04:31:04.400264"
     }
 ]
