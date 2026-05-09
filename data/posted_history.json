@@ -1270,5 +1270,17 @@
         "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
         "type": "news",
         "date_posted": "2026-05-08T04:31:04.400264"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.06667v1",
+        "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+        "type": "paper",
+        "date_posted": "2026-05-09T04:42:40.119478"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+        "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+        "type": "news",
+        "date_posted": "2026-05-09T04:42:40.121012"
     }
 ]
