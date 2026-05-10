@@ -1282,5 +1282,17 @@
         "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
         "type": "news",
         "date_posted": "2026-05-09T04:42:40.121012"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.06660v1",
+        "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+        "type": "paper",
+        "date_posted": "2026-05-10T04:58:52.414765"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+        "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+        "type": "news",
+        "date_posted": "2026-05-10T04:58:52.416398"
     }
 ]
