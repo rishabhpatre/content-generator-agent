@@ -1294,5 +1294,17 @@
         "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
         "type": "news",
         "date_posted": "2026-05-10T04:58:52.416398"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.08060v1",
+        "title": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
+        "type": "paper",
+        "date_posted": "2026-05-11T05:11:44.865264"
+    },
+    {
+        "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+        "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
+        "type": "news",
+        "date_posted": "2026-05-11T05:11:44.866980"
     }
 ]
