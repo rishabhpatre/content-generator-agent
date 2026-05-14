@@ -1306,5 +1306,17 @@
         "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
         "type": "news",
         "date_posted": "2026-05-11T05:11:44.866980"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.13829v1",
+        "title": "Negation Neglect: When models fail to learn negations in training",
+        "type": "paper",
+        "date_posted": "2026-05-14T05:03:02.122694"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "title": "AI chatbots are giving out people\u2019s real phone numbers",
+        "type": "news",
+        "date_posted": "2026-05-14T05:03:02.124177"
     }
 ]
