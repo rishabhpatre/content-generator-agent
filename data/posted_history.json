@@ -1318,5 +1318,17 @@
         "title": "AI chatbots are giving out people\u2019s real phone numbers",
         "type": "news",
         "date_posted": "2026-05-14T05:03:02.124177"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.15187v1",
+        "title": "Articraft: An Agentic System for Scalable Articulated 3D Asset Generation",
+        "type": "paper",
+        "date_posted": "2026-05-17T05:05:41.122153"
+    },
+    {
+        "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+        "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+        "type": "news",
+        "date_posted": "2026-05-17T05:05:41.123788"
     }
 ]
