@@ -1330,5 +1330,17 @@
         "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
         "type": "news",
         "date_posted": "2026-05-17T05:05:41.123788"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.18738v1",
+        "title": "What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models",
+        "type": "paper",
+        "date_posted": "2026-05-19T05:34:58.206165"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+        "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
+        "type": "news",
+        "date_posted": "2026-05-19T05:34:58.207697"
     }
 ]
