@@ -1342,5 +1342,17 @@
         "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
         "type": "news",
         "date_posted": "2026-05-19T05:34:58.207697"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.21468v1",
+        "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+        "type": "paper",
+        "date_posted": "2026-05-21T05:41:30.540958"
+    },
+    {
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "type": "news",
+        "date_posted": "2026-05-21T05:41:30.542565"
     }
 ]
