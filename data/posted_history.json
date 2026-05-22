@@ -1354,5 +1354,17 @@
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "type": "news",
         "date_posted": "2026-05-21T05:41:30.542565"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.22794v1",
+        "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+        "type": "paper",
+        "date_posted": "2026-05-22T05:35:06.070155"
+    },
+    {
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
+        "type": "news",
+        "date_posted": "2026-05-22T05:35:06.071812"
     }
 ]
