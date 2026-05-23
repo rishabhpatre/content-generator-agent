@@ -1366,5 +1366,17 @@
         "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
         "type": "news",
         "date_posted": "2026-05-22T05:35:06.071812"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.22823v1",
+        "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
+        "type": "paper",
+        "date_posted": "2026-05-23T04:57:19.729413"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+        "title": "Google I/O showed how the path for AI-driven science is shifting",
+        "type": "news",
+        "date_posted": "2026-05-23T04:57:19.731047"
     }
 ]
