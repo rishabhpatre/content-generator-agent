@@ -1378,5 +1378,17 @@
         "title": "Google I/O showed how the path for AI-driven science is shifting",
         "type": "news",
         "date_posted": "2026-05-23T04:57:19.731047"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.22819v1",
+        "title": "Cambrian-P: Pose-Grounded Video Understanding",
+        "type": "paper",
+        "date_posted": "2026-05-24T05:31:39.502375"
+    },
+    {
+        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+        "title": "Google\u2019s new anything-to-anything AI model is wild",
+        "type": "news",
+        "date_posted": "2026-05-24T05:31:39.504193"
     }
 ]
