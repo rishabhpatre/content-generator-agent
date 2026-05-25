@@ -1390,5 +1390,17 @@
         "title": "Google\u2019s new anything-to-anything AI model is wild",
         "type": "news",
         "date_posted": "2026-05-24T05:31:39.504193"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.23901v1",
+        "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+        "type": "paper",
+        "date_posted": "2026-05-25T05:54:41.619753"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+        "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+        "type": "news",
+        "date_posted": "2026-05-25T05:54:41.621486"
     }
 ]
