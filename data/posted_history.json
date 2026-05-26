@@ -1402,5 +1402,17 @@
         "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
         "type": "news",
         "date_posted": "2026-05-25T05:54:41.621486"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.26099v1",
+        "title": "Language Models Need Sleep",
+        "type": "paper",
+        "date_posted": "2026-05-26T05:34:21.439394"
+    },
+    {
+        "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+        "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
+        "type": "news",
+        "date_posted": "2026-05-26T05:34:21.441176"
     }
 ]
