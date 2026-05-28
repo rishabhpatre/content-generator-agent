@@ -1414,5 +1414,17 @@
         "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
         "type": "news",
         "date_posted": "2026-05-26T05:34:21.441176"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.28792v1",
+        "title": "CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models",
+        "type": "paper",
+        "date_posted": "2026-05-28T05:42:43.363932"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+        "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+        "type": "news",
+        "date_posted": "2026-05-28T05:42:43.365595"
     }
 ]
