@@ -1426,5 +1426,17 @@
         "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
         "type": "news",
         "date_posted": "2026-05-28T05:42:43.365595"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.30343v1",
+        "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+        "type": "paper",
+        "date_posted": "2026-05-30T05:05:55.362853"
+    },
+    {
+        "url": "https://openai.com/index/boston-childrens-hospital",
+        "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+        "type": "news",
+        "date_posted": "2026-05-30T05:05:55.364423"
     }
 ]
