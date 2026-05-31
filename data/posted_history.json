@@ -1438,5 +1438,17 @@
         "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
         "type": "news",
         "date_posted": "2026-05-30T05:05:55.364423"
+    },
+    {
+        "url": "http://arxiv.org/abs/2605.30348v1",
+        "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+        "type": "paper",
+        "date_posted": "2026-05-31T05:50:42.685451"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+        "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+        "type": "news",
+        "date_posted": "2026-05-31T05:50:42.687262"
     }
 ]
