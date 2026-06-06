@@ -1450,5 +1450,17 @@
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
         "type": "news",
         "date_posted": "2026-05-31T05:50:42.687262"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.06493v1",
+        "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+        "type": "paper",
+        "date_posted": "2026-06-06T05:09:47.252386"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
+        "type": "news",
+        "date_posted": "2026-06-06T05:09:47.254046"
     }
 ]
