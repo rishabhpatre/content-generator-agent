@@ -1462,5 +1462,17 @@
         "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
         "type": "news",
         "date_posted": "2026-06-06T05:09:47.254046"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.11182v1",
+        "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+        "type": "paper",
+        "date_posted": "2026-06-10T05:54:00.924320"
+    },
+    {
+        "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+        "title": "GM thinks EVs can help offset AI\u2019s energy suck with vehicle-to-grid tech",
+        "type": "news",
+        "date_posted": "2026-06-10T05:54:00.926062"
     }
 ]
