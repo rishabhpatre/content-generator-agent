@@ -1474,5 +1474,17 @@
         "title": "GM thinks EVs can help offset AI\u2019s energy suck with vehicle-to-grid tech",
         "type": "news",
         "date_posted": "2026-06-10T05:54:00.926062"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.13677v1",
+        "title": "Mana: Dexterous Manipulation of Articulated Tools",
+        "type": "paper",
+        "date_posted": "2026-06-13T05:51:41.828987"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "type": "news",
+        "date_posted": "2026-06-13T05:51:41.830550"
     }
 ]
