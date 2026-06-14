@@ -1486,5 +1486,17 @@
         "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
         "type": "news",
         "date_posted": "2026-06-13T05:51:41.830550"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.13670v1",
+        "title": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
+        "type": "paper",
+        "date_posted": "2026-06-14T06:10:30.957242"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
+        "type": "news",
+        "date_posted": "2026-06-14T06:10:30.958995"
     }
 ]
