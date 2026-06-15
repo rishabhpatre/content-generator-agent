@@ -1498,5 +1498,17 @@
         "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
         "type": "news",
         "date_posted": "2026-06-14T06:10:30.958995"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.14674v1",
+        "title": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
+        "type": "paper",
+        "date_posted": "2026-06-15T06:42:30.318525"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+        "title": "China may have accessed Mythos",
+        "type": "news",
+        "date_posted": "2026-06-15T06:42:30.319873"
     }
 ]
