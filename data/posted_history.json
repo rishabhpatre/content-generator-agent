@@ -1522,5 +1522,17 @@
         "title": "Inside the fight over Claude Mythos 5",
         "type": "news",
         "date_posted": "2026-06-16T06:55:10.272340"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.18208v1",
+        "title": "Looped World Models",
+        "type": "paper",
+        "date_posted": "2026-06-17T06:32:34.043761"
+    },
+    {
+        "url": "https://openai.com/index/deployment-simulation",
+        "title": "Predicting model behavior before release by simulating deployment",
+        "type": "news",
+        "date_posted": "2026-06-17T06:32:34.045559"
     }
 ]
