@@ -1534,5 +1534,17 @@
         "title": "Predicting model behavior before release by simulating deployment",
         "type": "news",
         "date_posted": "2026-06-17T06:32:34.045559"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.19317v1",
+        "title": "Explaining Attention with Program Synthesis",
+        "type": "paper",
+        "date_posted": "2026-06-18T06:15:05.370284"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+        "type": "news",
+        "date_posted": "2026-06-18T06:15:05.372028"
     }
 ]
