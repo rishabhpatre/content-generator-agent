@@ -1546,5 +1546,17 @@
         "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
         "type": "news",
         "date_posted": "2026-06-18T06:15:05.372028"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.20560v1",
+        "title": "How Transparent is DiffusionGemma?",
+        "type": "paper",
+        "date_posted": "2026-06-19T06:35:43.524647"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+        "type": "news",
+        "date_posted": "2026-06-19T06:35:43.526466"
     }
 ]
