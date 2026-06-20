@@ -1558,5 +1558,17 @@
         "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
         "type": "news",
         "date_posted": "2026-06-19T06:35:43.526466"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.20537v1",
+        "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+        "type": "paper",
+        "date_posted": "2026-06-20T05:49:07.332916"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
+        "type": "news",
+        "date_posted": "2026-06-20T05:49:07.334964"
     }
 ]
