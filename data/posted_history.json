@@ -1570,5 +1570,17 @@
         "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
         "type": "news",
         "date_posted": "2026-06-20T05:49:07.334964"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.20561v1",
+        "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
+        "type": "paper",
+        "date_posted": "2026-06-21T06:22:33.533802"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "title": "The Atlantic created a searchable database of the music used to train AI",
+        "type": "news",
+        "date_posted": "2026-06-21T06:22:33.535583"
     }
 ]
