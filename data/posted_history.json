@@ -1582,5 +1582,17 @@
         "title": "The Atlantic created a searchable database of the music used to train AI",
         "type": "news",
         "date_posted": "2026-06-21T06:22:33.535583"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.26071v1",
+        "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+        "type": "paper",
+        "date_posted": "2026-06-25T05:35:55.778652"
+    },
+    {
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "type": "news",
+        "date_posted": "2026-06-25T05:35:55.780438"
     }
 ]
