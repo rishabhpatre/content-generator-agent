@@ -1594,5 +1594,17 @@
         "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
         "type": "news",
         "date_posted": "2026-06-25T05:35:55.780438"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.27369v1",
+        "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+        "type": "paper",
+        "date_posted": "2026-06-26T05:43:16.968240"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "type": "news",
+        "date_posted": "2026-06-26T05:43:16.969853"
     }
 ]
