@@ -1606,5 +1606,17 @@
         "title": "OpenAI will delay GPT-5.6 after Trump administration request",
         "type": "news",
         "date_posted": "2026-06-26T05:43:16.969853"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.27354v1",
+        "title": "Error-Conditioned Neural Solvers",
+        "type": "paper",
+        "date_posted": "2026-06-28T05:49:58.076701"
+    },
+    {
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "type": "news",
+        "date_posted": "2026-06-28T05:49:58.078588"
     }
 ]
