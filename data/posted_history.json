@@ -1618,5 +1618,17 @@
         "title": "Previewing GPT-5.6 Sol: a next-generation model",
         "type": "news",
         "date_posted": "2026-06-28T05:49:58.078588"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.28270v1",
+        "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+        "type": "paper",
+        "date_posted": "2026-06-29T06:11:52.752328"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+        "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
+        "type": "news",
+        "date_posted": "2026-06-29T06:11:52.754349"
     }
 ]
