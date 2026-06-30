@@ -1630,5 +1630,17 @@
         "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
         "type": "news",
         "date_posted": "2026-06-29T06:11:52.754349"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.30645v1",
+        "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+        "type": "paper",
+        "date_posted": "2026-06-30T05:38:49.617294"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "title": "OpenAI is teasing new hardware\u2026 for Codex",
+        "type": "news",
+        "date_posted": "2026-06-30T05:38:49.620040"
     }
 ]
