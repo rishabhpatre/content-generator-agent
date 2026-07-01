@@ -1642,5 +1642,17 @@
         "title": "OpenAI is teasing new hardware\u2026 for Codex",
         "type": "news",
         "date_posted": "2026-06-30T05:38:49.620040"
+    },
+    {
+        "url": "http://arxiv.org/abs/2606.32032v1",
+        "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+        "type": "paper",
+        "date_posted": "2026-07-01T05:58:55.781229"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "title": "Claude Science is Anthropic\u2019s newest flagship product",
+        "type": "news",
+        "date_posted": "2026-07-01T05:58:55.783086"
     }
 ]
