@@ -1654,5 +1654,17 @@
         "title": "Claude Science is Anthropic\u2019s newest flagship product",
         "type": "news",
         "date_posted": "2026-07-01T05:58:55.783086"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.01232v1",
+        "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+        "type": "paper",
+        "date_posted": "2026-07-02T05:14:07.117566"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "type": "news",
+        "date_posted": "2026-07-02T05:14:07.119765"
     }
 ]
