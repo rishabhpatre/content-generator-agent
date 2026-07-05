@@ -1666,5 +1666,17 @@
         "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
         "type": "news",
         "date_posted": "2026-07-02T05:14:07.119765"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.02507v1",
+        "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+        "type": "paper",
+        "date_posted": "2026-07-05T05:31:00.462276"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "title": "Anthropic wants to develop its own drugs",
+        "type": "news",
+        "date_posted": "2026-07-05T05:31:00.464308"
     }
 ]
