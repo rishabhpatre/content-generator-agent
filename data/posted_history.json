@@ -1678,5 +1678,17 @@
         "title": "Anthropic wants to develop its own drugs",
         "type": "news",
         "date_posted": "2026-07-05T05:31:00.464308"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.02517v1",
+        "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+        "type": "paper",
+        "date_posted": "2026-07-06T05:48:36.951371"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "title": "Teaching AI to run with the turbines",
+        "type": "news",
+        "date_posted": "2026-07-06T05:48:36.953317"
     }
 ]
