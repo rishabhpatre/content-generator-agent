@@ -1690,5 +1690,17 @@
         "title": "Teaching AI to run with the turbines",
         "type": "news",
         "date_posted": "2026-07-06T05:48:36.953317"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.05391v1",
+        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+        "type": "paper",
+        "date_posted": "2026-07-07T05:28:42.429721"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "title": "Your family\u2019s $300 stake in OpenAI",
+        "type": "news",
+        "date_posted": "2026-07-07T05:28:42.431663"
     }
 ]
