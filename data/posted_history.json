@@ -1702,5 +1702,17 @@
         "title": "Your family\u2019s $300 stake in OpenAI",
         "type": "news",
         "date_posted": "2026-07-07T05:28:42.431663"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.06563v1",
+        "title": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
+        "type": "paper",
+        "date_posted": "2026-07-08T04:41:40.662213"
+    },
+    {
+        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+        "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
+        "type": "news",
+        "date_posted": "2026-07-08T04:41:40.664620"
     }
 ]
