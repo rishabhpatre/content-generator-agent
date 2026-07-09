@@ -1714,5 +1714,17 @@
         "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
         "type": "news",
         "date_posted": "2026-07-08T04:41:40.664620"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.07690v1",
+        "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+        "type": "paper",
+        "date_posted": "2026-07-09T05:35:27.909680"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+        "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
+        "type": "news",
+        "date_posted": "2026-07-09T05:35:27.911686"
     }
 ]
