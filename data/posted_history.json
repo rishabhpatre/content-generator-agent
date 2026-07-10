@@ -1726,5 +1726,17 @@
         "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
         "type": "news",
         "date_posted": "2026-07-09T05:35:27.911686"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.08763v1",
+        "title": "OpenCoF: Learning to Reason Through Video Generation",
+        "type": "paper",
+        "date_posted": "2026-07-10T05:29:07.530209"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "type": "news",
+        "date_posted": "2026-07-10T05:29:07.532411"
     }
 ]
