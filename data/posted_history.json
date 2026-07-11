@@ -1738,5 +1738,17 @@
         "title": "Anthropic found a hidden space where Claude puzzles over concepts",
         "type": "news",
         "date_posted": "2026-07-10T05:29:07.532411"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.08758v1",
+        "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+        "type": "paper",
+        "date_posted": "2026-07-11T04:37:32.664322"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "type": "news",
+        "date_posted": "2026-07-11T04:37:32.666527"
     }
 ]
