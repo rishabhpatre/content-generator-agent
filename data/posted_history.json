@@ -1750,5 +1750,17 @@
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "type": "news",
         "date_posted": "2026-07-11T04:37:32.666527"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.08745v1",
+        "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+        "type": "paper",
+        "date_posted": "2026-07-12T04:47:30.711681"
+    },
+    {
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "type": "news",
+        "date_posted": "2026-07-12T04:47:30.713663"
     }
 ]
