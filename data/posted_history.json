@@ -1762,5 +1762,17 @@
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "type": "news",
         "date_posted": "2026-07-12T04:47:30.713663"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.09662v1",
+        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+        "type": "paper",
+        "date_posted": "2026-07-13T04:54:36.517528"
+    },
+    {
+        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+        "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
+        "type": "news",
+        "date_posted": "2026-07-13T04:54:36.519900"
     }
 ]
