@@ -1774,5 +1774,17 @@
         "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
         "type": "news",
         "date_posted": "2026-07-13T04:54:36.519900"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.11859v1",
+        "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?",
+        "type": "paper",
+        "date_posted": "2026-07-14T04:23:25.463991"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+        "type": "news",
+        "date_posted": "2026-07-14T04:23:25.465577"
     }
 ]
