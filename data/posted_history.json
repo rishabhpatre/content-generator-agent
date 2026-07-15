@@ -1786,5 +1786,17 @@
         "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
         "type": "news",
         "date_posted": "2026-07-14T04:23:25.465577"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.12986v1",
+        "title": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation",
+        "type": "paper",
+        "date_posted": "2026-07-15T04:22:54.759642"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+        "title": "OpenAI may announce a ChatGPT smart speaker this year",
+        "type": "news",
+        "date_posted": "2026-07-15T04:22:54.762069"
     }
 ]
