@@ -1798,5 +1798,17 @@
         "title": "OpenAI may announce a ChatGPT smart speaker this year",
         "type": "news",
         "date_posted": "2026-07-15T04:22:54.762069"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.14047v1",
+        "title": "PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections",
+        "type": "paper",
+        "date_posted": "2026-07-16T04:33:56.423820"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "type": "news",
+        "date_posted": "2026-07-16T04:33:56.425963"
     }
 ]
