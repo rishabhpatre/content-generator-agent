@@ -1810,5 +1810,17 @@
         "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "type": "news",
         "date_posted": "2026-07-16T04:33:56.425963"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.15275v1",
+        "title": "RoboTTT: Context Scaling for Robot Policies",
+        "type": "paper",
+        "date_posted": "2026-07-17T04:36:44.952266"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+        "title": "Create, edit and star in videos with two Google Vids updates",
+        "type": "news",
+        "date_posted": "2026-07-17T04:36:44.954549"
     }
 ]
