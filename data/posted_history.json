@@ -1822,5 +1822,17 @@
         "title": "Create, edit and star in videos with two Google Vids updates",
         "type": "news",
         "date_posted": "2026-07-17T04:36:44.954549"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.15265v1",
+        "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+        "type": "paper",
+        "date_posted": "2026-07-18T04:21:02.793193"
+    },
+    {
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "title": "Apple\u2019s plot to crush OpenAI",
+        "type": "news",
+        "date_posted": "2026-07-18T04:21:02.795432"
     }
 ]
