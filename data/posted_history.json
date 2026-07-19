@@ -1834,5 +1834,17 @@
         "title": "Apple\u2019s plot to crush OpenAI",
         "type": "news",
         "date_posted": "2026-07-18T04:21:02.795432"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.15267v1",
+        "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+        "type": "paper",
+        "date_posted": "2026-07-19T04:43:35.565865"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
+        "type": "news",
+        "date_posted": "2026-07-19T04:43:35.568140"
     }
 ]
