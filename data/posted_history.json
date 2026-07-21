@@ -1858,5 +1858,17 @@
         "title": "I hate that I don\u2019t hate this song made with Suno",
         "type": "news",
         "date_posted": "2026-07-20T05:00:32.052533"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.18228v1",
+        "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+        "type": "paper",
+        "date_posted": "2026-07-21T04:42:54.566923"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+        "title": "AI is more likely than humans to form biases when hiring",
+        "type": "news",
+        "date_posted": "2026-07-21T04:42:54.569065"
     }
 ]
