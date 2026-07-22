@@ -1870,5 +1870,17 @@
         "title": "AI is more likely than humans to form biases when hiring",
         "type": "news",
         "date_posted": "2026-07-21T04:42:54.569065"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.19344v1",
+        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+        "type": "paper",
+        "date_posted": "2026-07-22T04:42:46.386253"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "type": "news",
+        "date_posted": "2026-07-22T04:42:46.388630"
     }
 ]
