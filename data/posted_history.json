@@ -1882,5 +1882,17 @@
         "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
         "type": "news",
         "date_posted": "2026-07-22T04:42:46.388630"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.20379v1",
+        "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+        "type": "paper",
+        "date_posted": "2026-07-23T04:46:39.086189"
+    },
+    {
+        "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+        "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+        "type": "news",
+        "date_posted": "2026-07-23T04:46:39.088336"
     }
 ]
