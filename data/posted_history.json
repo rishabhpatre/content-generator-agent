@@ -1894,5 +1894,17 @@
         "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
         "type": "news",
         "date_posted": "2026-07-23T04:46:39.088336"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.21580v1",
+        "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+        "type": "paper",
+        "date_posted": "2026-07-24T04:43:29.269366"
+    },
+    {
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "title": "Launching Health in ChatGPT",
+        "type": "news",
+        "date_posted": "2026-07-24T04:43:29.271037"
     }
 ]
