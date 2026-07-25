@@ -1906,5 +1906,17 @@
         "title": "Launching Health in ChatGPT",
         "type": "news",
         "date_posted": "2026-07-24T04:43:29.271037"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.21595v1",
+        "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+        "type": "paper",
+        "date_posted": "2026-07-25T04:39:24.927524"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+        "title": "How AI helps scientists design the next generation of medicines",
+        "type": "news",
+        "date_posted": "2026-07-25T04:39:24.929800"
     }
 ]
