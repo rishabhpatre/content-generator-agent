@@ -1918,5 +1918,17 @@
         "title": "How AI helps scientists design the next generation of medicines",
         "type": "news",
         "date_posted": "2026-07-25T04:39:24.929800"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.21570v1",
+        "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+        "type": "paper",
+        "date_posted": "2026-07-26T04:52:50.750533"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "title": "Midjourney bought the astrology app Co-Star",
+        "type": "news",
+        "date_posted": "2026-07-26T04:52:50.752808"
     }
 ]
