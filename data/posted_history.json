@@ -1930,5 +1930,17 @@
         "title": "Midjourney bought the astrology app Co-Star",
         "type": "news",
         "date_posted": "2026-07-26T04:52:50.752808"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.22529v1",
+        "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+        "type": "paper",
+        "date_posted": "2026-07-27T05:04:12.988668"
+    },
+    {
+        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+        "title": "You can\u2019t ignore Google Zero anymore",
+        "type": "news",
+        "date_posted": "2026-07-27T05:04:12.990395"
     }
 ]
