@@ -1942,5 +1942,17 @@
         "title": "You can\u2019t ignore Google Zero anymore",
         "type": "news",
         "date_posted": "2026-07-27T05:04:12.990395"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.24714v1",
+        "title": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
+        "type": "paper",
+        "date_posted": "2026-07-28T04:38:12.794702"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
+        "type": "news",
+        "date_posted": "2026-07-28T04:38:12.796808"
     }
 ]
