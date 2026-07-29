@@ -1954,5 +1954,17 @@
         "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
         "type": "news",
         "date_posted": "2026-07-28T04:38:12.796808"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.26055v1",
+        "title": "$\u03c0\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+        "type": "paper",
+        "date_posted": "2026-07-29T04:41:44.652158"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "type": "news",
+        "date_posted": "2026-07-29T04:41:44.654408"
     }
 ]
