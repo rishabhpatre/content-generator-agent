@@ -1966,5 +1966,17 @@
         "title": "AI leaders sign a statement asking the government to do something about automated AI",
         "type": "news",
         "date_posted": "2026-07-29T04:41:44.654408"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.27201v1",
+        "title": "Mental World Modeling",
+        "type": "paper",
+        "date_posted": "2026-07-30T04:27:59.718194"
+    },
+    {
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
+        "type": "news",
+        "date_posted": "2026-07-30T04:27:59.720430"
     }
 ]
