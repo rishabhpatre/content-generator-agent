@@ -1978,5 +1978,17 @@
         "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
         "type": "news",
         "date_posted": "2026-07-30T04:27:59.720430"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.28623v1",
+        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+        "type": "paper",
+        "date_posted": "2026-07-31T04:54:07.703378"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "type": "news",
+        "date_posted": "2026-07-31T04:54:07.705742"
     }
 ]
