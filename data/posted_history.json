@@ -2002,5 +2002,17 @@
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
         "type": "news",
         "date_posted": "2026-08-01T04:47:16.108038"
+    },
+    {
+        "url": "http://arxiv.org/abs/2607.28609v1",
+        "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+        "type": "paper",
+        "date_posted": "2026-08-02T04:49:29.703257"
+    },
+    {
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "type": "news",
+        "date_posted": "2026-08-02T04:49:29.704758"
     }
 ]
