@@ -2026,5 +2026,17 @@
         "title": "Is paying artists enough to convince them to embrace AI?",
         "type": "news",
         "date_posted": "2026-08-03T04:58:10.491468"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.02560v1",
+        "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
+        "type": "paper",
+        "date_posted": "2026-08-04T04:39:01.839785"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
+        "type": "news",
+        "date_posted": "2026-08-04T04:39:01.841511"
     }
 ]
