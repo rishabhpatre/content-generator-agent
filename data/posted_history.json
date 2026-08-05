@@ -2038,5 +2038,17 @@
         "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
         "type": "news",
         "date_posted": "2026-08-04T04:39:01.841511"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.04008v1",
+        "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
+        "type": "paper",
+        "date_posted": "2026-08-05T04:38:56.900276"
+    },
+    {
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "type": "news",
+        "date_posted": "2026-08-05T04:38:56.902473"
     }
 ]
