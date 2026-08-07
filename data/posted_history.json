@@ -2062,5 +2062,17 @@
         "title": "Deploy local agents everywhere with LFM2.5-2.6B",
         "type": "news",
         "date_posted": "2026-08-06T04:39:04.051678"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.06370v1",
+        "title": "The Bitter Lesson of Tool Calling",
+        "type": "paper",
+        "date_posted": "2026-08-07T04:07:54.263097"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "type": "news",
+        "date_posted": "2026-08-07T04:07:54.265399"
     }
 ]
