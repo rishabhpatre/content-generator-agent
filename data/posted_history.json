@@ -2074,5 +2074,17 @@
         "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
         "type": "news",
         "date_posted": "2026-08-07T04:07:54.265399"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.06377v1",
+        "title": "Learning When to Trust via Selective Context Preference Optimization",
+        "type": "paper",
+        "date_posted": "2026-08-08T03:05:28.671067"
+    },
+    {
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "type": "news",
+        "date_posted": "2026-08-08T03:05:28.672811"
     }
 ]
