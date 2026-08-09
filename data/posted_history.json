@@ -2086,5 +2086,17 @@
         "title": "Responding to the next frontier of critical cyber capabilities",
         "type": "news",
         "date_posted": "2026-08-08T03:05:28.672811"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.06361v1",
+        "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+        "type": "paper",
+        "date_posted": "2026-08-09T03:12:34.644787"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "title": "An Amazon data center could have the worst polluting power plant in the country",
+        "type": "news",
+        "date_posted": "2026-08-09T03:12:34.646984"
     }
 ]
