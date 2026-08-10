@@ -2098,5 +2098,17 @@
         "title": "An Amazon data center could have the worst polluting power plant in the country",
         "type": "news",
         "date_posted": "2026-08-09T03:12:34.646984"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.07457v1",
+        "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+        "type": "paper",
+        "date_posted": "2026-08-10T03:22:52.763485"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/tutormoments",
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "type": "news",
+        "date_posted": "2026-08-10T03:22:52.765263"
     }
 ]
