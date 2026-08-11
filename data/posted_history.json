@@ -2110,5 +2110,17 @@
         "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
         "type": "news",
         "date_posted": "2026-08-10T03:22:52.765263"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.09902v1",
+        "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+        "type": "paper",
+        "date_posted": "2026-08-11T03:15:53.552268"
+    },
+    {
+        "url": "https://openai.com/index/model-ml",
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "type": "news",
+        "date_posted": "2026-08-11T03:15:53.554546"
     }
 ]
