@@ -2122,5 +2122,17 @@
         "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
         "type": "news",
         "date_posted": "2026-08-11T03:15:53.554546"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.11195v1",
+        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+        "type": "paper",
+        "date_posted": "2026-08-12T03:34:08.633139"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+        "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "type": "news",
+        "date_posted": "2026-08-12T03:34:08.635742"
     }
 ]
