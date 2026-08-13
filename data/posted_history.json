@@ -2134,5 +2134,17 @@
         "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
         "type": "news",
         "date_posted": "2026-08-12T03:34:08.635742"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.12307v1",
+        "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+        "type": "paper",
+        "date_posted": "2026-08-13T03:37:08.219736"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "title": "Terabytes of credentials leaked in massive supply-chain attack",
+        "type": "news",
+        "date_posted": "2026-08-13T03:37:08.222146"
     }
 ]
