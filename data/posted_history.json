@@ -2146,5 +2146,17 @@
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
         "type": "news",
         "date_posted": "2026-08-13T03:37:08.222146"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.13558v1",
+        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+        "type": "paper",
+        "date_posted": "2026-08-14T03:34:26.183744"
+    },
+    {
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "type": "news",
+        "date_posted": "2026-08-14T03:34:26.186018"
     }
 ]
