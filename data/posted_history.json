@@ -2158,5 +2158,17 @@
         "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
         "type": "news",
         "date_posted": "2026-08-14T03:34:26.186018"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.13522v1",
+        "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+        "type": "paper",
+        "date_posted": "2026-08-15T02:30:24.578426"
+    },
+    {
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "title": "The builder\u2019s guide to GPT\u20115.6",
+        "type": "news",
+        "date_posted": "2026-08-15T02:30:24.580311"
     }
 ]
