@@ -2170,5 +2170,17 @@
         "title": "The builder\u2019s guide to GPT\u20115.6",
         "type": "news",
         "date_posted": "2026-08-15T02:30:24.580311"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.13560v1",
+        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+        "type": "paper",
+        "date_posted": "2026-08-16T02:38:54.815697"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "type": "news",
+        "date_posted": "2026-08-16T02:38:54.817921"
     }
 ]
