@@ -2182,5 +2182,17 @@
         "title": "Flock is tightening its rules in response to a growing surveillance backlash",
         "type": "news",
         "date_posted": "2026-08-16T02:38:54.817921"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.14533v1",
+        "title": "Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking",
+        "type": "paper",
+        "date_posted": "2026-08-17T02:38:09.650505"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "type": "news",
+        "date_posted": "2026-08-17T02:38:09.652682"
     }
 ]
