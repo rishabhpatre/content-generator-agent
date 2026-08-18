@@ -2194,5 +2194,17 @@
         "title": "OpenAI reportedly disbanded its preparedness team",
         "type": "news",
         "date_posted": "2026-08-17T02:38:09.652682"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.16876v1",
+        "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+        "type": "paper",
+        "date_posted": "2026-08-18T02:33:06.595287"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+        "title": "What happens when a kid\u2019s robot best friend dies?",
+        "type": "news",
+        "date_posted": "2026-08-18T02:33:06.597752"
     }
 ]
