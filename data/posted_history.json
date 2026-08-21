@@ -2218,5 +2218,17 @@
         "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
         "type": "news",
         "date_posted": "2026-08-19T02:36:57.116142"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.20318v1",
+        "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+        "type": "paper",
+        "date_posted": "2026-08-21T02:40:56.691736"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "type": "news",
+        "date_posted": "2026-08-21T02:40:56.694210"
     }
 ]
