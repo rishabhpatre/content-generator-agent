@@ -2230,5 +2230,17 @@
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
         "type": "news",
         "date_posted": "2026-08-21T02:40:56.694210"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.20319v1",
+        "title": "Inducing Task Models from Computer-Use Traces",
+        "type": "paper",
+        "date_posted": "2026-08-22T02:37:20.571968"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "type": "news",
+        "date_posted": "2026-08-22T02:37:20.573933"
     }
 ]
