@@ -2242,5 +2242,17 @@
         "title": "Grok exfiltrates user data when malicious instructions are encrypted",
         "type": "news",
         "date_posted": "2026-08-22T02:37:20.573933"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.20338v1",
+        "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+        "type": "paper",
+        "date_posted": "2026-08-23T02:41:14.792909"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "title": "Debates over AI consciousness are a trap",
+        "type": "news",
+        "date_posted": "2026-08-23T02:41:14.795407"
     }
 ]
