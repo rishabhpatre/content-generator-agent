@@ -2254,5 +2254,17 @@
         "title": "Debates over AI consciousness are a trap",
         "type": "news",
         "date_posted": "2026-08-23T02:41:14.795407"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.21356v1",
+        "title": "AI with Authority, from Application to Silicon",
+        "type": "paper",
+        "date_posted": "2026-08-24T02:41:52.695566"
+    },
+    {
+        "url": "https://openai.com/index/introducing-ai-futures",
+        "title": "Introducing AI Futures",
+        "type": "news",
+        "date_posted": "2026-08-24T02:41:52.697188"
     }
 ]
