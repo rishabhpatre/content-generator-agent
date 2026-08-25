@@ -2266,5 +2266,17 @@
         "title": "Introducing AI Futures",
         "type": "news",
         "date_posted": "2026-08-24T02:41:52.697188"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.23552v1",
+        "title": "Prime Agent: A Self-Improving RLM Harness",
+        "type": "paper",
+        "date_posted": "2026-08-25T02:35:20.037099"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
+        "type": "news",
+        "date_posted": "2026-08-25T02:35:20.039887"
     }
 ]
