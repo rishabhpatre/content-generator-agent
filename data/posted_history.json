@@ -2278,5 +2278,17 @@
         "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
         "type": "news",
         "date_posted": "2026-08-25T02:35:20.039887"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.24876v1",
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "type": "paper",
+        "date_posted": "2026-08-26T02:43:59.790147"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "type": "news",
+        "date_posted": "2026-08-26T02:43:59.792742"
     }
 ]
