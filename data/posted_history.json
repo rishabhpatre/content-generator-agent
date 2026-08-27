@@ -2290,5 +2290,17 @@
         "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
         "type": "news",
         "date_posted": "2026-08-26T02:43:59.792742"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.26088v1",
+        "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+        "type": "paper",
+        "date_posted": "2026-08-27T11:39:57.085827"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+        "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
+        "type": "news",
+        "date_posted": "2026-08-27T11:39:57.088478"
     }
 ]
