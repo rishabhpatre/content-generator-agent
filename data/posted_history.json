@@ -2302,5 +2302,17 @@
         "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
         "type": "news",
         "date_posted": "2026-08-27T11:39:57.088478"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.27454v1",
+        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "type": "paper",
+        "date_posted": "2026-08-28T13:04:41.911287"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "type": "news",
+        "date_posted": "2026-08-28T13:04:41.913699"
     }
 ]
