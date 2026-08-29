@@ -2314,5 +2314,17 @@
         "title": "The inside story on why OpenAI agents hacked Hugging Face",
         "type": "news",
         "date_posted": "2026-08-28T13:04:41.913699"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.27439v1",
+        "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+        "type": "paper",
+        "date_posted": "2026-08-29T08:00:13.593203"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+        "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+        "type": "news",
+        "date_posted": "2026-08-29T08:00:13.594909"
     }
 ]
