@@ -2326,5 +2326,17 @@
         "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
         "type": "news",
         "date_posted": "2026-08-29T08:00:13.594909"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.28549v1",
+        "title": "Video Generative Models as Geometry Learner",
+        "type": "paper",
+        "date_posted": "2026-08-31T07:12:15.906601"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+        "type": "news",
+        "date_posted": "2026-08-31T07:12:15.909070"
     }
 ]
