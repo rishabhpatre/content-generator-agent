@@ -2338,5 +2338,17 @@
         "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
         "type": "news",
         "date_posted": "2026-08-31T07:12:15.909070"
+    },
+    {
+        "url": "http://arxiv.org/abs/2608.31111v1",
+        "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+        "type": "paper",
+        "date_posted": "2026-09-01T06:24:55.050807"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "type": "news",
+        "date_posted": "2026-09-01T06:24:55.053581"
     }
 ]
