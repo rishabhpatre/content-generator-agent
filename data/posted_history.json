@@ -2350,5 +2350,17 @@
         "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
         "type": "news",
         "date_posted": "2026-09-01T06:24:55.053581"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.04198v1",
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "type": "paper",
+        "date_posted": "2026-09-04T06:10:36.799265"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+        "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+        "type": "news",
+        "date_posted": "2026-09-04T06:10:36.801752"
     }
 ]
