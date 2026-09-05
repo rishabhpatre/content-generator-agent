@@ -2362,5 +2362,17 @@
         "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
         "type": "news",
         "date_posted": "2026-09-04T06:10:36.801752"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.04199v1",
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "type": "paper",
+        "date_posted": "2026-09-05T05:59:11.560450"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "type": "news",
+        "date_posted": "2026-09-05T05:59:11.563039"
     }
 ]
