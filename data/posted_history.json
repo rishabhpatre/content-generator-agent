@@ -2374,5 +2374,17 @@
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
         "type": "news",
         "date_posted": "2026-09-05T05:59:11.563039"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.04180v1",
+        "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+        "type": "paper",
+        "date_posted": "2026-09-06T06:10:43.823022"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "title": "OpenAI admits to German wiki \u2018incident\u2019",
+        "type": "news",
+        "date_posted": "2026-09-06T06:10:43.825659"
     }
 ]
