@@ -2386,5 +2386,17 @@
         "title": "OpenAI admits to German wiki \u2018incident\u2019",
         "type": "news",
         "date_posted": "2026-09-06T06:10:43.825659"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.05382v1",
+        "title": "Reflection-aware Generative Novel View Synthesis",
+        "type": "paper",
+        "date_posted": "2026-09-07T06:20:30.812265"
+    },
+    {
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "title": "Research acceleration: The view inside OpenAI",
+        "type": "news",
+        "date_posted": "2026-09-07T06:20:30.813927"
     }
 ]
