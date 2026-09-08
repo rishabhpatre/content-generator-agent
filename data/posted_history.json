@@ -2398,5 +2398,17 @@
         "title": "Research acceleration: The view inside OpenAI",
         "type": "news",
         "date_posted": "2026-09-07T06:20:30.813927"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.05385v1",
+        "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+        "type": "paper",
+        "date_posted": "2026-09-08T06:08:30.400783"
+    },
+    {
+        "url": "https://openai.com/index/an-alien-mind",
+        "title": "An Alien Mind",
+        "type": "news",
+        "date_posted": "2026-09-08T06:08:30.403497"
     }
 ]
