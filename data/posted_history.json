@@ -2410,5 +2410,17 @@
         "title": "An Alien Mind",
         "type": "news",
         "date_posted": "2026-09-08T06:08:30.403497"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.09158v1",
+        "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+        "type": "paper",
+        "date_posted": "2026-09-09T06:13:24.169724"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+        "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+        "type": "news",
+        "date_posted": "2026-09-09T06:13:24.172396"
     }
 ]
