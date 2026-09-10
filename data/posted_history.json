@@ -2422,5 +2422,17 @@
         "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
         "type": "news",
         "date_posted": "2026-09-09T06:13:24.172396"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.10522v1",
+        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+        "type": "paper",
+        "date_posted": "2026-09-10T06:15:56.890265"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
+        "type": "news",
+        "date_posted": "2026-09-10T06:15:56.892153"
     }
 ]
