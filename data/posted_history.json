@@ -2446,5 +2446,17 @@
         "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
         "type": "news",
         "date_posted": "2026-09-11T06:23:32.379516"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.11923v1",
+        "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+        "type": "paper",
+        "date_posted": "2026-09-12T06:04:11.563820"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "type": "news",
+        "date_posted": "2026-09-12T06:04:11.565969"
     }
 ]
