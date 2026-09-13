@@ -2458,5 +2458,17 @@
         "title": "Anthropic spent this week in hot water over cybersecurity",
         "type": "news",
         "date_posted": "2026-09-12T06:04:11.565969"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.11900v1",
+        "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+        "type": "paper",
+        "date_posted": "2026-09-13T06:26:51.558464"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
+        "type": "news",
+        "date_posted": "2026-09-13T06:26:51.561106"
     }
 ]
