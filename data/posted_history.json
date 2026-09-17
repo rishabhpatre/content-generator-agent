@@ -2470,5 +2470,17 @@
         "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
         "type": "news",
         "date_posted": "2026-09-13T06:26:51.561106"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.19137v1",
+        "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+        "type": "paper",
+        "date_posted": "2026-09-17T06:21:25.849142"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+        "title": "Roundtables: Could AI really kill us all?",
+        "type": "news",
+        "date_posted": "2026-09-17T06:21:25.851102"
     }
 ]
