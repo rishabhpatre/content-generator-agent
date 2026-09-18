@@ -2482,5 +2482,17 @@
         "title": "Roundtables: Could AI really kill us all?",
         "type": "news",
         "date_posted": "2026-09-17T06:21:25.851102"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.20812v1",
+        "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+        "type": "paper",
+        "date_posted": "2026-09-18T06:10:35.495057"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+        "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+        "type": "news",
+        "date_posted": "2026-09-18T06:10:35.497036"
     }
 ]
