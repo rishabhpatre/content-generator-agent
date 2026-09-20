@@ -2494,5 +2494,17 @@
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
         "type": "news",
         "date_posted": "2026-09-18T06:10:35.497036"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.20822v1",
+        "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+        "type": "paper",
+        "date_posted": "2026-09-20T06:33:37.576604"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+        "title": "Gemini went rogue, hacked three companies, and Google hid it",
+        "type": "news",
+        "date_posted": "2026-09-20T06:33:37.579672"
     }
 ]
