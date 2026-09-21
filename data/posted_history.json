@@ -2506,5 +2506,17 @@
         "title": "Gemini went rogue, hacked three companies, and Google hid it",
         "type": "news",
         "date_posted": "2026-09-20T06:33:37.579672"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.22043v1",
+        "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+        "type": "paper",
+        "date_posted": "2026-09-21T06:40:10.044071"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "type": "news",
+        "date_posted": "2026-09-21T06:40:10.046838"
     }
 ]
