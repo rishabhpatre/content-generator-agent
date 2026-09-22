@@ -2518,5 +2518,17 @@
         "title": "Could AI really kill us all? Your questions, answered.",
         "type": "news",
         "date_posted": "2026-09-21T06:40:10.046838"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.24994v1",
+        "title": "Feedback Coding Enables Inference-Time Covert Agentic Communication",
+        "type": "paper",
+        "date_posted": "2026-09-22T06:28:30.790104"
+    },
+    {
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "type": "news",
+        "date_posted": "2026-09-22T06:28:30.792757"
     }
 ]
