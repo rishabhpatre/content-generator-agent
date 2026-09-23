@@ -2530,5 +2530,17 @@
         "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
         "type": "news",
         "date_posted": "2026-09-22T06:28:30.792757"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.26760v1",
+        "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+        "type": "paper",
+        "date_posted": "2026-09-23T06:15:10.230357"
+    },
+    {
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "title": "Introducing GPT-6 Sol and Luna",
+        "type": "news",
+        "date_posted": "2026-09-23T06:15:10.232943"
     }
 ]
