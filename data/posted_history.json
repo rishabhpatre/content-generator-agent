@@ -2542,5 +2542,17 @@
         "title": "Introducing GPT-6 Sol and Luna",
         "type": "news",
         "date_posted": "2026-09-23T06:15:10.232943"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.28470v1",
+        "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+        "type": "paper",
+        "date_posted": "2026-09-24T06:23:13.082623"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+        "title": "The AI Hype Index: AI loves cheating",
+        "type": "news",
+        "date_posted": "2026-09-24T06:23:13.085333"
     }
 ]
