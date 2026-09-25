@@ -2554,5 +2554,17 @@
         "title": "The AI Hype Index: AI loves cheating",
         "type": "news",
         "date_posted": "2026-09-24T06:23:13.085333"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.30233v1",
+        "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+        "type": "paper",
+        "date_posted": "2026-09-25T06:20:05.636373"
+    },
+    {
+        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "type": "news",
+        "date_posted": "2026-09-25T06:20:05.638735"
     }
 ]
