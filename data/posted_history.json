@@ -2566,5 +2566,17 @@
         "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
         "type": "news",
         "date_posted": "2026-09-25T06:20:05.638735"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.30266v1",
+        "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+        "type": "paper",
+        "date_posted": "2026-09-26T06:17:06.522308"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+        "title": "There's a new way to break RSA that's faster than anything we've seen before",
+        "type": "news",
+        "date_posted": "2026-09-26T06:17:06.525242"
     }
 ]
