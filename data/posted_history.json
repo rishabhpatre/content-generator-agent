@@ -2578,5 +2578,17 @@
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
         "type": "news",
         "date_posted": "2026-09-26T06:17:06.525242"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.30249v1",
+        "title": "RAPID: Robot Agentic Programming from Demonstrations",
+        "type": "paper",
+        "date_posted": "2026-09-27T06:45:54.996247"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "title": "OpenAI pauses training of its \u2018most capable models\u2019",
+        "type": "news",
+        "date_posted": "2026-09-27T06:45:54.998517"
     }
 ]
