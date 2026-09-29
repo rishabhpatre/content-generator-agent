@@ -2590,5 +2590,17 @@
         "title": "OpenAI pauses training of its \u2018most capable models\u2019",
         "type": "news",
         "date_posted": "2026-09-27T06:45:54.998517"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.35767v1",
+        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+        "type": "paper",
+        "date_posted": "2026-09-29T07:08:20.445969"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+        "title": "When can we say AI made a scientific discovery?",
+        "type": "news",
+        "date_posted": "2026-09-29T07:08:20.447924"
     }
 ]
