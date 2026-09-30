@@ -2602,5 +2602,17 @@
         "title": "When can we say AI made a scientific discovery?",
         "type": "news",
         "date_posted": "2026-09-29T07:08:20.447924"
+    },
+    {
+        "url": "http://arxiv.org/abs/2609.38147v1",
+        "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+        "type": "paper",
+        "date_posted": "2026-09-30T06:58:35.492975"
+    },
+    {
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+        "title": "Introducing GPT-6.1 Sol",
+        "type": "news",
+        "date_posted": "2026-09-30T06:58:35.494872"
     }
 ]
