@@ -2614,5 +2614,17 @@
         "title": "Introducing GPT-6.1 Sol",
         "type": "news",
         "date_posted": "2026-09-30T06:58:35.494872"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.02200v1",
+        "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+        "type": "paper",
+        "date_posted": "2026-10-03T06:44:13.803080"
+    },
+    {
+        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+        "type": "news",
+        "date_posted": "2026-10-03T06:44:13.804924"
     }
 ]
