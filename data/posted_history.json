@@ -2626,5 +2626,17 @@
         "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
         "type": "news",
         "date_posted": "2026-10-03T06:44:13.804924"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.02204v1",
+        "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+        "type": "paper",
+        "date_posted": "2026-10-04T07:07:02.607904"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
+        "type": "news",
+        "date_posted": "2026-10-04T07:07:02.611132"
     }
 ]
