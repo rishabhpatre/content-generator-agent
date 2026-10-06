@@ -2638,5 +2638,17 @@
         "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
         "type": "news",
         "date_posted": "2026-10-04T07:07:02.611132"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.06851v1",
+        "title": "Base Models Can Reason By Taking a Cue From Training Data",
+        "type": "paper",
+        "date_posted": "2026-10-06T07:46:02.458708"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+        "title": "This startup is issuing AI-generated acne prescriptions",
+        "type": "news",
+        "date_posted": "2026-10-06T07:46:02.461079"
     }
 ]
