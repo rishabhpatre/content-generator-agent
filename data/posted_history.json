@@ -2650,5 +2650,17 @@
         "title": "This startup is issuing AI-generated acne prescriptions",
         "type": "news",
         "date_posted": "2026-10-06T07:46:02.461079"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.08778v1",
+        "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+        "type": "paper",
+        "date_posted": "2026-10-07T07:25:48.904021"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "type": "news",
+        "date_posted": "2026-10-07T07:25:48.906944"
     }
 ]
