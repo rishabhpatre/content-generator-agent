@@ -2674,5 +2674,17 @@
         "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
         "type": "news",
         "date_posted": "2026-10-08T07:41:47.824224"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.12445v1",
+        "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+        "type": "paper",
+        "date_posted": "2026-10-09T07:37:45.731827"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "type": "news",
+        "date_posted": "2026-10-09T07:37:45.734423"
     }
 ]
