@@ -2686,5 +2686,17 @@
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
         "type": "news",
         "date_posted": "2026-10-09T07:37:45.734423"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.12463v1",
+        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+        "type": "paper",
+        "date_posted": "2026-10-10T07:24:31.521033"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "type": "news",
+        "date_posted": "2026-10-10T07:24:31.523939"
     }
 ]
