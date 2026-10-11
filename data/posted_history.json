@@ -2698,5 +2698,17 @@
         "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
         "type": "news",
         "date_posted": "2026-10-10T07:24:31.523939"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.12436v1",
+        "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+        "type": "paper",
+        "date_posted": "2026-10-11T07:29:09.460074"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+        "type": "news",
+        "date_posted": "2026-10-11T07:29:09.461963"
     }
 ]
