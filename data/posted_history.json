@@ -2710,5 +2710,17 @@
         "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
         "type": "news",
         "date_posted": "2026-10-11T07:29:09.461963"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.13886v1",
+        "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+        "type": "paper",
+        "date_posted": "2026-10-12T07:37:16.514833"
+    },
+    {
+        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "type": "news",
+        "date_posted": "2026-10-12T07:37:16.517511"
     }
 ]
