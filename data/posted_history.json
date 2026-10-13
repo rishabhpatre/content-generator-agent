@@ -2722,5 +2722,17 @@
         "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
         "type": "news",
         "date_posted": "2026-10-12T07:37:16.517511"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.13935v1",
+        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+        "type": "paper",
+        "date_posted": "2026-10-13T07:56:57.684940"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+        "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+        "type": "news",
+        "date_posted": "2026-10-13T07:56:57.688028"
     }
 ]
