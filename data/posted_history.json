@@ -2734,5 +2734,17 @@
         "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
         "type": "news",
         "date_posted": "2026-10-13T07:56:57.688028"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.18861v1",
+        "title": "Hybrid Reasoning Agents",
+        "type": "paper",
+        "date_posted": "2026-10-14T06:22:25.172762"
+    },
+    {
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "type": "news",
+        "date_posted": "2026-10-14T06:22:25.174635"
     }
 ]
