@@ -2746,5 +2746,17 @@
         "title": "Higgsfield takes AI video from 1 minute to over 10",
         "type": "news",
         "date_posted": "2026-10-14T06:22:25.174635"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.23826v1",
+        "title": "Self-Building Labs",
+        "type": "paper",
+        "date_posted": "2026-10-19T06:26:10.542472"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "type": "news",
+        "date_posted": "2026-10-19T06:26:10.544874"
     }
 ]
