@@ -2770,5 +2770,17 @@
         "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
         "type": "news",
         "date_posted": "2026-10-20T06:14:17.011796"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.31639v1",
+        "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+        "type": "paper",
+        "date_posted": "2026-10-24T06:06:38.241496"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "type": "news",
+        "date_posted": "2026-10-24T06:06:38.244558"
     }
 ]
