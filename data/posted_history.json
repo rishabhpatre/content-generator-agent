@@ -2782,5 +2782,17 @@
         "title": "OpenAI now trains its frontier AI models with no internet access",
         "type": "news",
         "date_posted": "2026-10-24T06:06:38.244558"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.32948v1",
+        "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+        "type": "paper",
+        "date_posted": "2026-10-26T06:36:15.985019"
+    },
+    {
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "title": "Securing our frontier model training environment",
+        "type": "news",
+        "date_posted": "2026-10-26T06:36:15.989516"
     }
 ]
