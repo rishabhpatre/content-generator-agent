@@ -2794,5 +2794,17 @@
         "title": "Securing our frontier model training environment",
         "type": "news",
         "date_posted": "2026-10-26T06:36:15.989516"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.35835v1",
+        "title": "I-HITL: Inalienable Human-in-the-Loop",
+        "type": "paper",
+        "date_posted": "2026-10-27T06:31:15.817177"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "type": "news",
+        "date_posted": "2026-10-27T06:31:15.819080"
     }
 ]
