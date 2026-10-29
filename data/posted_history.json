@@ -2806,5 +2806,17 @@
         "title": "OpenAI announces three big science discoveries and a new way to work with academics",
         "type": "news",
         "date_posted": "2026-10-27T06:31:15.819080"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.37649v1",
+        "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+        "type": "paper",
+        "date_posted": "2026-10-29T07:22:34.055983"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+        "title": "Our newest AI Quest: Mapping the human brain",
+        "type": "news",
+        "date_posted": "2026-10-29T07:22:34.058901"
     }
 ]
