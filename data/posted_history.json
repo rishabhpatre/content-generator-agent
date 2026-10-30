@@ -2818,5 +2818,17 @@
         "title": "Our newest AI Quest: Mapping the human brain",
         "type": "news",
         "date_posted": "2026-10-29T07:22:34.058901"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.40641v1",
+        "title": "From extreme weather to agricultural consequences with agentic AI",
+        "type": "paper",
+        "date_posted": "2026-10-30T07:24:52.223594"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+        "type": "news",
+        "date_posted": "2026-10-30T07:24:52.226666"
     }
 ]
