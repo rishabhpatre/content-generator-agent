@@ -2830,5 +2830,17 @@
         "title": "We urgently need to monitor AI agents\u2019 actions in real time",
         "type": "news",
         "date_posted": "2026-10-30T07:24:52.226666"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.40649v1",
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "type": "paper",
+        "date_posted": "2026-10-31T07:12:54.351831"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "type": "news",
+        "date_posted": "2026-10-31T07:12:54.355654"
     }
 ]
