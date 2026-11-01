@@ -2842,5 +2842,17 @@
         "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
         "type": "news",
         "date_posted": "2026-10-31T07:12:54.355654"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.40627v1",
+        "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+        "type": "paper",
+        "date_posted": "2026-11-01T07:45:42.180759"
+    },
+    {
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "title": "I built an AI Tamagotchi before Meta could",
+        "type": "news",
+        "date_posted": "2026-11-01T07:45:42.183440"
     }
 ]
