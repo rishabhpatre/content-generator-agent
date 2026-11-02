@@ -2854,5 +2854,17 @@
         "title": "I built an AI Tamagotchi before Meta could",
         "type": "news",
         "date_posted": "2026-11-01T07:45:42.183440"
+    },
+    {
+        "url": "http://arxiv.org/abs/2610.42147v1",
+        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+        "type": "paper",
+        "date_posted": "2026-11-02T07:52:38.746394"
+    },
+    {
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "type": "news",
+        "date_posted": "2026-11-02T07:52:38.749375"
     }
 ]
