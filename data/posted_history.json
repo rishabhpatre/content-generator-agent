@@ -2866,5 +2866,17 @@
         "title": "Apple Intelligence is finally coming to China with iOS 27.3",
         "type": "news",
         "date_posted": "2026-11-02T07:52:38.749375"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.05341v1",
+        "title": "Weight-space programming for auditing clinical decision networks",
+        "type": "paper",
+        "date_posted": "2026-11-04T07:42:12.515252"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+        "type": "news",
+        "date_posted": "2026-11-04T07:42:12.518299"
     }
 ]
