@@ -2878,5 +2878,17 @@
         "title": "How \u201creverse game theory\u201d could keep AI agents in check",
         "type": "news",
         "date_posted": "2026-11-04T07:42:12.518299"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.08478v1",
+        "title": "Scientist World: Grow a Research World for AI-Scientists",
+        "type": "paper",
+        "date_posted": "2026-11-06T08:08:28.098436"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "type": "news",
+        "date_posted": "2026-11-06T08:08:28.100857"
     }
 ]
