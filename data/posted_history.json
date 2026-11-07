@@ -2890,5 +2890,17 @@
         "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
         "type": "news",
         "date_posted": "2026-11-06T08:08:28.100857"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.08483v1",
+        "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+        "type": "paper",
+        "date_posted": "2026-11-07T07:27:57.874278"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "type": "news",
+        "date_posted": "2026-11-07T07:27:57.876162"
     }
 ]
