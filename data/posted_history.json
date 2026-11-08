@@ -2902,5 +2902,17 @@
         "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
         "type": "news",
         "date_posted": "2026-11-07T07:27:57.876162"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.08465v1",
+        "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+        "type": "paper",
+        "date_posted": "2026-11-08T07:38:30.422471"
+    },
+    {
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "type": "news",
+        "date_posted": "2026-11-08T07:38:30.482979"
     }
 ]
