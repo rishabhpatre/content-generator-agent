@@ -2926,5 +2926,17 @@
         "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
         "type": "news",
         "date_posted": "2026-11-09T08:17:16.354861"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.12856v1",
+        "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+        "type": "paper",
+        "date_posted": "2026-11-10T08:35:44.022740"
+    },
+    {
+        "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+        "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+        "type": "news",
+        "date_posted": "2026-11-10T08:35:44.027012"
     }
 ]
