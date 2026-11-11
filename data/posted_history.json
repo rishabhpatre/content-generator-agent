@@ -2938,5 +2938,17 @@
         "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
         "type": "news",
         "date_posted": "2026-11-10T08:35:44.027012"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.14511v1",
+        "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+        "type": "paper",
+        "date_posted": "2026-11-11T07:56:38.531408"
+    },
+    {
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "type": "news",
+        "date_posted": "2026-11-11T07:56:38.534553"
     }
 ]
