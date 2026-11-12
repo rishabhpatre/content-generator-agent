@@ -2950,5 +2950,17 @@
         "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
         "type": "news",
         "date_posted": "2026-11-11T07:56:38.534553"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.14487v1",
+        "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+        "type": "paper",
+        "date_posted": "2026-11-12T08:34:13.012154"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "type": "news",
+        "date_posted": "2026-11-12T08:34:13.015626"
     }
 ]
