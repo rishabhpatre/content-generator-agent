@@ -2962,5 +2962,17 @@
         "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
         "type": "news",
         "date_posted": "2026-11-12T08:34:13.015626"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.17309v1",
+        "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+        "type": "paper",
+        "date_posted": "2026-11-13T08:20:48.316619"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+        "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
+        "type": "news",
+        "date_posted": "2026-11-13T08:20:48.319746"
     }
 ]
