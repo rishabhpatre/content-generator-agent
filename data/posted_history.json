@@ -2974,5 +2974,17 @@
         "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
         "type": "news",
         "date_posted": "2026-11-13T08:20:48.319746"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.17323v1",
+        "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+        "type": "paper",
+        "date_posted": "2026-11-14T07:45:56.321179"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "type": "news",
+        "date_posted": "2026-11-14T07:45:56.323321"
     }
 ]
