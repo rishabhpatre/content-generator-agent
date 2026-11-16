@@ -2986,5 +2986,17 @@
         "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
         "type": "news",
         "date_posted": "2026-11-14T07:45:56.323321"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.18523v1",
+        "title": "Mutable Inference: Architecting LLM Accelerators for Inference-Time Learning",
+        "type": "paper",
+        "date_posted": "2026-11-16T08:12:16.215659"
+    },
+    {
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "title": "A step toward defining the Standard Model on a lattice",
+        "type": "news",
+        "date_posted": "2026-11-16T08:12:16.217794"
     }
 ]
