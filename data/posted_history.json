@@ -2998,5 +2998,17 @@
         "title": "A step toward defining the Standard Model on a lattice",
         "type": "news",
         "date_posted": "2026-11-16T08:12:16.217794"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.21605v1",
+        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+        "type": "paper",
+        "date_posted": "2026-11-17T09:26:53.267188"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+        "title": "California sues OpenAI over rogue AI hacking incidents",
+        "type": "news",
+        "date_posted": "2026-11-17T09:26:53.270596"
     }
 ]
