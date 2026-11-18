@@ -3010,5 +3010,17 @@
         "title": "California sues OpenAI over rogue AI hacking incidents",
         "type": "news",
         "date_posted": "2026-11-17T09:26:53.270596"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.23219v1",
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "type": "paper",
+        "date_posted": "2026-11-18T08:45:09.382445"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+        "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+        "type": "news",
+        "date_posted": "2026-11-18T08:45:09.385048"
     }
 ]
