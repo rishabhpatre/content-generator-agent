@@ -3022,5 +3022,17 @@
         "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
         "type": "news",
         "date_posted": "2026-11-18T08:45:09.385048"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.24888v1",
+        "title": "Who are you? The Personal Imitation Game",
+        "type": "paper",
+        "date_posted": "2026-11-19T09:00:05.141101"
+    },
+    {
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "title": "Research acceleration: The jagged frontier",
+        "type": "news",
+        "date_posted": "2026-11-19T09:00:05.143674"
     }
 ]
