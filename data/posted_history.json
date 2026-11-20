@@ -3034,5 +3034,17 @@
         "title": "Research acceleration: The jagged frontier",
         "type": "news",
         "date_posted": "2026-11-19T09:00:05.143674"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.26601v1",
+        "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+        "type": "paper",
+        "date_posted": "2026-11-20T08:47:17.774908"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+        "title": "This smell startup says its AI nose is as good as a human\u2019s",
+        "type": "news",
+        "date_posted": "2026-11-20T08:47:17.778042"
     }
 ]
