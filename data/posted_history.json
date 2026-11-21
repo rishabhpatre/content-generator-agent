@@ -3046,5 +3046,17 @@
         "title": "This smell startup says its AI nose is as good as a human\u2019s",
         "type": "news",
         "date_posted": "2026-11-20T08:47:17.778042"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.26596v1",
+        "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+        "type": "paper",
+        "date_posted": "2026-11-21T08:29:35.371493"
+    },
+    {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "type": "news",
+        "date_posted": "2026-11-21T08:29:35.373736"
     }
 ]
