@@ -3058,5 +3058,17 @@
         "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
         "type": "news",
         "date_posted": "2026-11-21T08:29:35.373736"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.26617v1",
+        "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+        "type": "paper",
+        "date_posted": "2026-11-22T08:22:34.366632"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "type": "news",
+        "date_posted": "2026-11-22T08:22:34.369836"
     }
 ]
