@@ -3070,5 +3070,17 @@
         "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
         "type": "news",
         "date_posted": "2026-11-22T08:22:34.369836"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.27920v1",
+        "title": "Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models",
+        "type": "paper",
+        "date_posted": "2026-11-23T09:21:57.513146"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "type": "news",
+        "date_posted": "2026-11-23T09:21:57.516393"
     }
 ]
