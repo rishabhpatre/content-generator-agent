@@ -3082,5 +3082,17 @@
         "title": "The most misunderstood graph in AI just got a major update",
         "type": "news",
         "date_posted": "2026-11-23T09:21:57.516393"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.33158v1",
+        "title": "OmniAct: One Policy, One Million Embodiments",
+        "type": "paper",
+        "date_posted": "2026-11-25T10:02:13.381502"
+    },
+    {
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "type": "news",
+        "date_posted": "2026-11-25T10:02:13.384948"
     }
 ]
