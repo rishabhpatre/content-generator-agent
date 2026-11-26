@@ -3094,5 +3094,17 @@
         "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "type": "news",
         "date_posted": "2026-11-25T10:02:13.384948"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.34907v1",
+        "title": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+        "type": "paper",
+        "date_posted": "2026-11-26T09:45:40.899058"
+    },
+    {
+        "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+        "type": "news",
+        "date_posted": "2026-11-26T09:45:40.902925"
     }
 ]
