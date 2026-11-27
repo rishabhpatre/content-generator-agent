@@ -3106,5 +3106,17 @@
         "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
         "type": "news",
         "date_posted": "2026-11-26T09:45:40.902925"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.34928v1",
+        "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+        "type": "paper",
+        "date_posted": "2026-11-27T09:54:03.960329"
+    },
+    {
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "type": "news",
+        "date_posted": "2026-11-27T09:54:03.962452"
     }
 ]
