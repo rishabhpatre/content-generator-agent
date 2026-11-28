@@ -3118,5 +3118,17 @@
         "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
         "type": "news",
         "date_posted": "2026-11-27T09:54:03.962452"
+    },
+    {
+        "url": "http://arxiv.org/abs/2611.34934v1",
+        "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+        "type": "paper",
+        "date_posted": "2026-11-28T09:04:46.803238"
+    },
+    {
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "title": "Searching for distant planets with Astra",
+        "type": "news",
+        "date_posted": "2026-11-28T09:04:46.805442"
     }
 ]
